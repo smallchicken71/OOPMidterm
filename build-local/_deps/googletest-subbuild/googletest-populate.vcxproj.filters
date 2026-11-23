@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-subbuild\CMakeFiles\d0c510a46b17958e1d8a31d6d1efb04e\googletest-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-subbuild\CMakeFiles\d0c510a46b17958e1d8a31d6d1efb04e\googletest-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-subbuild\CMakeFiles\d0c510a46b17958e1d8a31d6d1efb04e\googletest-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-subbuild\CMakeFiles\d0c510a46b17958e1d8a31d6d1efb04e\googletest-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-subbuild\CMakeFiles\d0c510a46b17958e1d8a31d6d1efb04e\googletest-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-subbuild\CMakeFiles\d0c510a46b17958e1d8a31d6d1efb04e\googletest-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-subbuild\CMakeFiles\d0c510a46b17958e1d8a31d6d1efb04e\googletest-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-subbuild\CMakeFiles\d0c510a46b17958e1d8a31d6d1efb04e\googletest-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-subbuild\CMakeFiles\e8afdad99991d195da349b1172d098d8\googletest-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-subbuild\CMakeFiles\4680d255ffaf1799651454e8de92eb64\googletest-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-subbuild\CMakeFiles\googletest-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{21CB7398-CDE5-3C10-A068-32FB48517AFA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

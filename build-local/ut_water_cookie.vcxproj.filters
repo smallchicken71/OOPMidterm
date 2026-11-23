@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\src\BackGingerbreadMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\src\FrontGingerbreadMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\src\MiddleGingerbreadMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\src\BurningSpiceCookie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\src\Character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\src\ChiliPepperCookie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\src\CrimsonCoralCookie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\src\FireSpiritCookie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\src\GingerbreadMan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\src\GingerbreadGroup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\src\MillennialTreeCookie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\src\SeaFairyCookie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\src\SeltzerCookie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\src\SilverbellCookie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\src\WhiteLilyCookie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\test\ut_water_cookie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\include\BackGingerbreadMan.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\include\BurningSpiceCookie.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\include\Character.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\include\ChiliPepperCookie.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\include\CrimsonCoralCookie.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\include\FireSpiritCookie.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\include\FrontGingerbreadMan.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\include\GingerbreadGroup.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\include\GingerbreadMan.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\include\MiddleGingerbreadMan.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\include\MillennialTreeCookie.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\include\SeaFairyCookie.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\include\SeltzerCookie.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\include\SilverbellCookie.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\include\WhiteLilyCookie.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{566D3153-6F16-3DB1-B7B8-EDFE76005B53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5AD6BBCB-0B55-3DB3-B5A1-213CB27318CB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,122 @@
+CharacterTest.Constructor 2 0.0095907
+CharacterTest.CountCritTimeWithTrigger 2 0.00552985
+CharacterTest.CountCritTimeWithoutTrigger 2 0.0056121
+CharacterTest.CountAvoidTimeWithTrigger 2 0.005496
+CharacterTest.CountAvoidTimeWithoutTrigger 2 0.0058364
+CookieTest.BurningSpiceCookieConstructor 2 0.0056822
+CookieTest.BurningSpiceCookieLevelUp 2 0.0059407
+CookieTest.BurningSpiceCookieAttack 2 0.00617775
+CookieTest.BurningSpiceCookieCriticalAttack 2 0.00603865
+CookieTest.BurningSpiceCookieAttackAgainstPlant 2 0.00627755
+CookieTest.BurningSpiceCookieCriticalAttackAgainstPlant 2 0.00544975
+CookieTest.BurningSpiceCookieAttacked 2 0.0052629
+CookieTest.ChiliPepperCookieConstructor 2 0.0057822
+CookieTest.ChiliPepperCookieLevelUp 2 0.005773
+CookieTest.ChiliPepperCookieAttack 2 0.0060246
+CookieTest.ChiliPepperCookieCriticalAttack 2 0.00509375
+CookieTest.ChiliPepperCookieAttackAgainstPlant 2 0.0059883
+CookieTest.ChiliPepperCookieCriticalAttackAgainstPlant 2 0.00555185
+CookieTest.ChiliPepperCookieAttacked 2 0.0059271
+CookieTest.FireSpiritCookieConstructor 2 0.0061371
+CookieTest.FireSpiritCookieLevelUp 0 0
+CookieTest.FireSpiritCookieAttack 2 0.00604855
+CookieTest.FireSpiritCookieCriticalAttack 0 0
+CookieTest.FireSpiritCookieAttackAgainstPlant 2 0.006358
+CookieTest.FireSpiritCookieCriticalAttackAgainstPlant 0 0
+CookieTest.FireSpiritCookieAttacked 2 0.0068016
+CookieTest.MillennialTreeCookieConstructor 2 0.0059446
+CookieTest.MillennialTreeCookieLevelUp 2 0.0056317
+CookieTest.MillennialTreeCookieAttack 2 0.0051835
+CookieTest.MillennialTreeCookieCriticalAttack 2 0.00538805
+CookieTest.MillennialTreeCookieAttackAgainstWater 2 0.0058088
+CookieTest.MillennialTreeCookieCriticalAttackAgainstWater 2 0.00540475
+CookieTest.MillennialTreeCookieAttacked 2 0.0050975
+CookieTest.WhiteLilyCookieConstructor 2 0.00603205
+CookieTest.WhiteLilyCookieLevelUp 2 0.00568085
+CookieTest.WhiteLilyCookieAttack 2 0.00650025
+CookieTest.WhiteLilyCookieCriticalAttack 2 0.00562695
+CookieTest.WhiteLilyCookieAttackAgainstWater 2 0.00504495
+CookieTest.WhiteLilyCookieCriticalAttackAgainstWater 2 0.00573745
+CookieTest.WhiteLilyCookieAttacked 2 0.0060203
+CookieTest.SilverbellCookieConstructor 2 0.00566175
+CookieTest.SilverbellCookieLevelUp 2 0.00526455
+CookieTest.SilverbellCookieAttack 2 0.00534035
+CookieTest.SilverbellCookieCriticalAttack 0 0
+CookieTest.SilverbellCookieAttackAgainstWater 2 0.00998075
+CookieTest.SilverbellCookieCriticalAttackAgainstWater 0 0
+CookieTest.SilverbellCookieAttacked 2 0.0077047
+CookieTest.CrimsonCoralCookieConstructor 2 0.00624245
+CookieTest.CrimsonCoralCookieLevelUp 2 0.0058376
+CookieTest.CrimsonCoralCookieAttack 2 0.00617725
+CookieTest.CrimsonCoralCookieCriticalAttack 2 0.0055683
+CookieTest.CrimsonCoralCookieAttackAgainstFire 2 0.00535085
+CookieTest.CrimsonCoralCookieCriticalAttackAgainstFire 2 0.00543985
+CookieTest.CrimsonCoralCookieAttacked 2 0.00636565
+CookieTest.SeaFairyCookieConstructor 2 0.00601625
+CookieTest.SeaFairyCookieLevelUp 2 0.00585215
+CookieTest.SeaFairyCookieAttack 2 0.00578025
+CookieTest.SeaFairyCookieCriticalAttack 2 0.00529895
+CookieTest.SeaFairyCookieAttackAgainstFire 2 0.00553385
+CookieTest.SeaFairyCookieCriticalAttackAgainstFire 2 0.00642855
+CookieTest.SeaFairyCookieAttacked 2 0.0059755
+CookieTest.SeltzerCookieConstructor 2 0.00601135
+CookieTest.SeltzerCookieLevelUp 2 0.00548515
+CookieTest.SeltzerCookieAttack 2 0.00613395
+CookieTest.SeltzerCookieCriticalAttack 0 0
+CookieTest.SeltzerCookieAttackAgainstFire 2 0.00765315
+CookieTest.SeltzerCookieCriticalAttackAgainstFire 0 0
+CookieTest.SeltzerCookieAttacked 2 0.006853
+GingerbreadGroupTest.Constructor 2 0.0070282
+GingerbreadGroupTest.AttackWithNoCriticalCookie 2 0.0066182
+GingerbreadGroupTest.AttackWithSomeCriticalCookie 0 0
+GingerbreadGroupTest.AttackedWithNoAvoidCookie 2 0.0057955
+GingerbreadGroupTest.AttackedWithSomeAvoidCookie 2 0.00642305
+GingerbreadGroupTest.AddGingerbreadManRejectsDuplicateNames 2 0.00688515
+GingerbreadGroupTest.AddGingerbreadManRejectsFullPositions 2 0.0063139
+GingerbreadGroupTest.AddGingerbreadMan 2 0.0064009
+GingerbreadGroupTest.ReplaceGingerbreadManRejectsDuplicateNames 2 0.00646305
+GingerbreadGroupTest.ReplaceGingerbreadManRejectsInvalidIndex 2 0.00582235
+GingerbreadGroupTest.ReplaceGingerbreadManRejectsWrongPositionCookies 2 0.006293
+GingerbreadGroupTest.ReplaceGingerbreadMan 2 0.00761
+GingerbreadGroupTest.SortByHealth 2 0.0079435
+GingerbreadGroupTest.SortByDamage 2 0.00603545
+GingerbreadGroupTest.SortByDefense 2 0.00571015
+GingerbreadGroupTest.CountCombatPower 2 0.0052774
+GingerbreadGroupTest.RemoveDeadGingerbreadManKeepsLivingMembers 2 0.00542165
+GingerbreadGroupTest.RemoveGingerbreadManByName 2 0.00643995
+GingerbreadGroupTest.RemoveGingerbreadManByElement 2 0.0059232
+GingerbreadGroupTest.GetGingerbreadManRejectInvalidIndex 2 0.00695175
+GingerbreadGroupTest.GetGingerbreadMan 2 0.00689775
+GingerbreadManTest.Constructor 2 0.0054069
+GingerbreadManTest.LevelUp 2 0.0056249
+GingerbreadManTest.AttackWithoutTypeEffectiveness 2 0.00620915
+GingerbreadManTest.AttackWithTypeEffectiveness 2 0.0063948
+GingerbreadManTest.CriticalAttackWithoutTypeEffectiveness 0 0
+GingerbreadManTest.CriticalAttackWithTypeEffectiveness 0 0
+GingerbreadManTest.Attacked 2 0.0052347
+GingerbreadManTest.AvoidAttack 2 0.00889355
+GingerbreadManTest.GetBaseFrontInteractPositions 2 0.00782735
+GingerbreadManTest.ElementalAttack 2 0.00748445
+GingerbreadManTest.GetFrontGingerbreadInteractPositions 2 0.00566365
+GingerbreadManTest.GetMiddleGingerbreadInteractPositions 2 0.00624695
+GingerbreadManTest.GetBackGingerbreadInteractPositions 2 0.00538965
+GingerbreadManTest.FrontGingerbreadManConstructor 2 0.00574585
+GingerbreadManTest.FrontGingerbreadManDefenseBuffTriggersWhenDefenseIsHigher 2 0.00551475
+GingerbreadManTest.FrontGingerbreadManDefenseBuffDoesNotTriggerWhenDefenseIsNotHigher 2 0.0057352
+GingerbreadManTest.MiddleGingerbreadManCriticalBuffRaisesCriticalDamage 0 0
+GingerbreadManTest.MiddleGingerbreadManCriticalBuffPreservesHigherCriticalDamage 0 0
+GingerbreadManTest.BackGingerbreadManHealingBuffRestoresOneHealth 2 0.0055793
+GingerbreadManTest.BackGingerbreadManHealingBuffDoesNotTriggerAtFullHealth 2 0.0059943
+---
+CookieTest.FireSpiritCookieLevelUp
+CookieTest.FireSpiritCookieCriticalAttack
+CookieTest.FireSpiritCookieCriticalAttackAgainstPlant
+CookieTest.SilverbellCookieCriticalAttack
+CookieTest.SilverbellCookieCriticalAttackAgainstWater
+CookieTest.SeltzerCookieCriticalAttack
+CookieTest.SeltzerCookieCriticalAttackAgainstFire
+GingerbreadGroupTest.AttackWithSomeCriticalCookie
+GingerbreadManTest.CriticalAttackWithoutTypeEffectiveness
+GingerbreadManTest.CriticalAttackWithTypeEffectiveness
+GingerbreadManTest.MiddleGingerbreadManCriticalBuffRaisesCriticalDamage
+GingerbreadManTest.MiddleGingerbreadManCriticalBuffPreservesHigherCriticalDamage

@@ -1,0 +1,575 @@
+{
+  "tests": 109,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "CharacterTest",
+      "tests": 5,
+      "testsuite": [
+        {
+          "name": "Constructor",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_character.cpp",
+          "line": 13
+        },
+        {
+          "name": "CountCritTimeWithTrigger",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_character.cpp",
+          "line": 26
+        },
+        {
+          "name": "CountCritTimeWithoutTrigger",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_character.cpp",
+          "line": 33
+        },
+        {
+          "name": "CountAvoidTimeWithTrigger",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_character.cpp",
+          "line": 39
+        },
+        {
+          "name": "CountAvoidTimeWithoutTrigger",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_character.cpp",
+          "line": 45
+        }
+      ]
+    },
+    {
+      "name": "CookieTest",
+      "tests": 63,
+      "testsuite": [
+        {
+          "name": "BurningSpiceCookieConstructor",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 56
+        },
+        {
+          "name": "BurningSpiceCookieLevelUp",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 61
+        },
+        {
+          "name": "BurningSpiceCookieAttack",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 71
+        },
+        {
+          "name": "BurningSpiceCookieCriticalAttack",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 77
+        },
+        {
+          "name": "BurningSpiceCookieAttackAgainstPlant",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 83
+        },
+        {
+          "name": "BurningSpiceCookieCriticalAttackAgainstPlant",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 89
+        },
+        {
+          "name": "BurningSpiceCookieAttacked",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 95
+        },
+        {
+          "name": "ChiliPepperCookieConstructor",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 103
+        },
+        {
+          "name": "ChiliPepperCookieLevelUp",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 108
+        },
+        {
+          "name": "ChiliPepperCookieAttack",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 119
+        },
+        {
+          "name": "ChiliPepperCookieCriticalAttack",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 124
+        },
+        {
+          "name": "ChiliPepperCookieAttackAgainstPlant",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 129
+        },
+        {
+          "name": "ChiliPepperCookieCriticalAttackAgainstPlant",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 134
+        },
+        {
+          "name": "ChiliPepperCookieAttacked",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 139
+        },
+        {
+          "name": "FireSpiritCookieConstructor",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 145
+        },
+        {
+          "name": "FireSpiritCookieLevelUp",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 150
+        },
+        {
+          "name": "FireSpiritCookieAttack",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 161
+        },
+        {
+          "name": "FireSpiritCookieCriticalAttack",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 166
+        },
+        {
+          "name": "FireSpiritCookieAttackAgainstPlant",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 171
+        },
+        {
+          "name": "FireSpiritCookieCriticalAttackAgainstPlant",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 176
+        },
+        {
+          "name": "FireSpiritCookieAttacked",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_fire_cookie.cpp",
+          "line": 181
+        },
+        {
+          "name": "MillennialTreeCookieConstructor",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 56
+        },
+        {
+          "name": "MillennialTreeCookieLevelUp",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 61
+        },
+        {
+          "name": "MillennialTreeCookieAttack",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 69
+        },
+        {
+          "name": "MillennialTreeCookieCriticalAttack",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 74
+        },
+        {
+          "name": "MillennialTreeCookieAttackAgainstWater",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 79
+        },
+        {
+          "name": "MillennialTreeCookieCriticalAttackAgainstWater",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 84
+        },
+        {
+          "name": "MillennialTreeCookieAttacked",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 89
+        },
+        {
+          "name": "WhiteLilyCookieConstructor",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 103
+        },
+        {
+          "name": "WhiteLilyCookieLevelUp",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 108
+        },
+        {
+          "name": "WhiteLilyCookieAttack",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 116
+        },
+        {
+          "name": "WhiteLilyCookieCriticalAttack",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 121
+        },
+        {
+          "name": "WhiteLilyCookieAttackAgainstWater",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 126
+        },
+        {
+          "name": "WhiteLilyCookieCriticalAttackAgainstWater",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 131
+        },
+        {
+          "name": "WhiteLilyCookieAttacked",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 136
+        },
+        {
+          "name": "SilverbellCookieConstructor",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 143
+        },
+        {
+          "name": "SilverbellCookieLevelUp",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 148
+        },
+        {
+          "name": "SilverbellCookieAttack",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 158
+        },
+        {
+          "name": "SilverbellCookieCriticalAttack",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 163
+        },
+        {
+          "name": "SilverbellCookieAttackAgainstWater",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 168
+        },
+        {
+          "name": "SilverbellCookieCriticalAttackAgainstWater",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 173
+        },
+        {
+          "name": "SilverbellCookieAttacked",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_plant_cookie.cpp",
+          "line": 178
+        },
+        {
+          "name": "CrimsonCoralCookieConstructor",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 56
+        },
+        {
+          "name": "CrimsonCoralCookieLevelUp",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 61
+        },
+        {
+          "name": "CrimsonCoralCookieAttack",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 69
+        },
+        {
+          "name": "CrimsonCoralCookieCriticalAttack",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 75
+        },
+        {
+          "name": "CrimsonCoralCookieAttackAgainstFire",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 85
+        },
+        {
+          "name": "CrimsonCoralCookieCriticalAttackAgainstFire",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 91
+        },
+        {
+          "name": "CrimsonCoralCookieAttacked",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 101
+        },
+        {
+          "name": "SeaFairyCookieConstructor",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 107
+        },
+        {
+          "name": "SeaFairyCookieLevelUp",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 112
+        },
+        {
+          "name": "SeaFairyCookieAttack",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 123
+        },
+        {
+          "name": "SeaFairyCookieCriticalAttack",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 128
+        },
+        {
+          "name": "SeaFairyCookieAttackAgainstFire",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 133
+        },
+        {
+          "name": "SeaFairyCookieCriticalAttackAgainstFire",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 138
+        },
+        {
+          "name": "SeaFairyCookieAttacked",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 143
+        },
+        {
+          "name": "SeltzerCookieConstructor",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 149
+        },
+        {
+          "name": "SeltzerCookieLevelUp",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 154
+        },
+        {
+          "name": "SeltzerCookieAttack",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 162
+        },
+        {
+          "name": "SeltzerCookieCriticalAttack",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 167
+        },
+        {
+          "name": "SeltzerCookieAttackAgainstFire",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 172
+        },
+        {
+          "name": "SeltzerCookieCriticalAttackAgainstFire",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 177
+        },
+        {
+          "name": "SeltzerCookieAttacked",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_water_cookie.cpp",
+          "line": 182
+        }
+      ]
+    },
+    {
+      "name": "GingerbreadGroupTest",
+      "tests": 21,
+      "testsuite": [
+        {
+          "name": "Constructor",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 13
+        },
+        {
+          "name": "AttackWithNoCriticalCookie",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 20
+        },
+        {
+          "name": "AttackWithSomeCriticalCookie",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 29
+        },
+        {
+          "name": "AttackedWithNoAvoidCookie",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 38
+        },
+        {
+          "name": "AttackedWithSomeAvoidCookie",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 48
+        },
+        {
+          "name": "AddGingerbreadManRejectsDuplicateNames",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 60
+        },
+        {
+          "name": "AddGingerbreadManRejectsFullPositions",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 71
+        },
+        {
+          "name": "AddGingerbreadMan",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 82
+        },
+        {
+          "name": "ReplaceGingerbreadManRejectsDuplicateNames",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 97
+        },
+        {
+          "name": "ReplaceGingerbreadManRejectsInvalidIndex",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 109
+        },
+        {
+          "name": "ReplaceGingerbreadManRejectsWrongPositionCookies",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 119
+        },
+        {
+          "name": "ReplaceGingerbreadMan",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 129
+        },
+        {
+          "name": "SortByHealth",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 144
+        },
+        {
+          "name": "SortByDamage",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 160
+        },
+        {
+          "name": "SortByDefense",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 176
+        },
+        {
+          "name": "CountCombatPower",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 192
+        },
+        {
+          "name": "RemoveDeadGingerbreadManKeepsLivingMembers",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 202
+        },
+        {
+          "name": "RemoveGingerbreadManByName",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 217
+        },
+        {
+          "name": "RemoveGingerbreadManByElement",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 230
+        },
+        {
+          "name": "GetGingerbreadManRejectInvalidIndex",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 245
+        },
+        {
+          "name": "GetGingerbreadMan",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_group.cpp",
+          "line": 254
+        }
+      ]
+    },
+    {
+      "name": "GingerbreadManTest",
+      "tests": 20,
+      "testsuite": [
+        {
+          "name": "Constructor",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_man.cpp",
+          "line": 8
+        },
+        {
+          "name": "LevelUp",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_man.cpp",
+          "line": 23
+        },
+        {
+          "name": "AttackWithoutTypeEffectiveness",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_man.cpp",
+          "line": 36
+        },
+        {
+          "name": "AttackWithTypeEffectiveness",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_man.cpp",
+          "line": 41
+        },
+        {
+          "name": "CriticalAttackWithoutTypeEffectiveness",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_man.cpp",
+          "line": 51
+        },
+        {
+          "name": "CriticalAttackWithTypeEffectiveness",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_man.cpp",
+          "line": 57
+        },
+        {
+          "name": "Attacked",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_man.cpp",
+          "line": 63
+        },
+        {
+          "name": "AvoidAttack",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_man.cpp",
+          "line": 72
+        },
+        {
+          "name": "GetBaseFrontInteractPositions",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_man.cpp",
+          "line": 80
+        },
+        {
+          "name": "ElementalAttack",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_man.cpp",
+          "line": 85
+        },
+        {
+          "name": "GetFrontGingerbreadInteractPositions",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_man.cpp",
+          "line": 95
+        },
+        {
+          "name": "GetMiddleGingerbreadInteractPositions",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_man.cpp",
+          "line": 101
+        },
+        {
+          "name": "GetBackGingerbreadInteractPositions",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_man.cpp",
+          "line": 110
+        },
+        {
+          "name": "FrontGingerbreadManConstructor",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_man.cpp",
+          "line": 119
+        },
+        {
+          "name": "FrontGingerbreadManDefenseBuffTriggersWhenDefenseIsHigher",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_man.cpp",
+          "line": 132
+        },
+        {
+          "name": "FrontGingerbreadManDefenseBuffDoesNotTriggerWhenDefenseIsNotHigher",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_man.cpp",
+          "line": 138
+        },
+        {
+          "name": "MiddleGingerbreadManCriticalBuffRaisesCriticalDamage",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_man.cpp",
+          "line": 144
+        },
+        {
+          "name": "MiddleGingerbreadManCriticalBuffPreservesHigherCriticalDamage",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_man.cpp",
+          "line": 151
+        },
+        {
+          "name": "BackGingerbreadManHealingBuffRestoresOneHealth",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_man.cpp",
+          "line": 157
+        },
+        {
+          "name": "BackGingerbreadManHealingBuffDoesNotTriggerAtFullHealth",
+          "file": "C:\\Users\\cxiao\\OneDrive\\Desktop\\OOPMidterm-fixed\\test\\ut_gingerbread_man.cpp",
+          "line": 165
+        }
+      ]
+    }
+  ]
+}

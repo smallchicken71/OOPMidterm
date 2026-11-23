@@ -12,7 +12,7 @@ GingerbreadMan::GingerbreadMan(std::string name, Element type, Position pos,
 }
 
 void GingerbreadMan::levelUp() {
-    ++level;
+    level+=1;
     damage += 100;
     defense += 100;
     health += 100;
@@ -20,7 +20,10 @@ void GingerbreadMan::levelUp() {
 }
 
 int GingerbreadMan::attack(Element enemyType) {
-    const float crit = countCritTime() ? critDamage : 0.0f;
+    float crit =0.0f;
+    if(countCritTime()){
+        crit = critDamage;
+    }
     return static_cast<int>((1 + crit + elementalAttack(enemyType)) * damage);
 }
 

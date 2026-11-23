@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/cxiao/OneDrive/Desktop/OOPMidterm-fixed/build/ut_all_e3b0c442_Debug_tests.cmake")
+  include("C:/Users/cxiao/OneDrive/Desktop/OOPMidterm-fixed/build/ut_all_e3b0c442_Debug_tests.cmake")
+else()
+  add_test(ut_all_NOT_BUILT ut_all_NOT_BUILT)
+endif()

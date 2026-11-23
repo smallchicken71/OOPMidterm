@@ -49,7 +49,8 @@ int Character::getAvoidTime() const {
 }
 
 bool Character::countCritTime() {
-    if (++currCritTime == critTime) {
+    currCritTime+=1;
+    if (currCritTime == critTime) {
         currCritTime = 0;
         return true;
     }
@@ -58,7 +59,8 @@ bool Character::countCritTime() {
 }
 
 bool Character::countAvoidTime() {
-    if (++currAvoidTime == avoidTime) {
+    currAvoidTime+=1;
+    if (currAvoidTime == avoidTime) {
         currAvoidTime = 0;
         return true;
     }

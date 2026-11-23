@@ -1,0 +1,10 @@
+^C:\USERS\CXIAO\ONEDRIVE\DESKTOP\C++\OOPMIDTERM-FIXED\BUILD-LOCAL\CMAKEFILES\AA26DEB11DD80D1341020B1544A95357\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed -BC:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/OOP.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
