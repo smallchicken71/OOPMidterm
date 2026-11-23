@@ -6,17 +6,8 @@ CrimsonCoralCookie::CrimsonCoralCookie()
 }
 
 int CrimsonCoralCookie::attack(Element enemyType) {
-    float crit = 0;
-
-    if (countCritTime()) {
-        crit = critDamage;
-    }
-
-    float bonus = elementalAttack(enemyType);
-
-    // 先用目前的防禦力和最大生命值計算這次傷害。
-    int finalDamage = (1 + crit + bonus) * damage + defense + health;
-
+    const float crit = countCritTime() ? critDamage : 0.0f;
+    const int finalDamage = static_cast<int>((1 + crit + elementalAttack(enemyType)) * damage + defense + health);
     defenseBuff();
     return finalDamage;
 }

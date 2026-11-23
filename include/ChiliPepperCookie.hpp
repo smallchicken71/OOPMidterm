@@ -7,9 +7,8 @@ class ChiliPepperCookie final : public MiddleGingerbreadMan {
 public:
     ChiliPepperCookie();
 
-    void levelUp()override;
-    int attack(Element enemyType)override;
-    bool attacked(int incomingDamage)override;
+    void levelUp() override;
+    int attack(Element enemyType) override;
 };
 
 #endif

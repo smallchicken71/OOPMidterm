@@ -6,20 +6,7 @@ SeltzerCookie::SeltzerCookie()
 }
 
 bool SeltzerCookie::attacked(int incomingDamage) {
-    double defenseMultiplier = 1 + level / 100.0;
-    int realDamage = incomingDamage - defense * defenseMultiplier;
-
-    // 算完傷害後先回血，再判斷閃避和扣血。
+    const int realDamage = static_cast<int>(incomingDamage - defense * (1 + level / 100.0));
     keepHealingBuff();
-
-    if (countAvoidTime()) {
-        return true;
-    }
-
-    if (realDamage <= 0) {
-        return true;
-    }
-
-    currHealth -= realDamage;
-    return false;
+    return applyDamage(realDamage);
 }

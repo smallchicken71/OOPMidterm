@@ -5,14 +5,14 @@
 GingerbreadMan::GingerbreadMan(std::string name, Element type, Position pos,
                                int damage, int defense, int health,
                                float critDamage, int critTime, int avoidTime)
-    : Character(name, damage, defense, health, critTime, avoidTime),
+    : Character(std::move(name), damage, defense, health, critTime, avoidTime),
       type(type),
       pos(pos),
       critDamage(critDamage) {
 }
 
 void GingerbreadMan::levelUp() {
-    level+=1;
+    ++level;
     damage += 100;
     defense += 100;
     health += 100;
@@ -20,39 +20,32 @@ void GingerbreadMan::levelUp() {
 }
 
 int GingerbreadMan::attack(Element enemyType) {
-    float crit = 0;  // 先把爆擊加成設為 0
-
-    if (countCritTime()) {
-        crit = critDamage;  // 這次有爆擊，才套用爆擊加成
-    }
-
-    float bonus = elementalAttack(enemyType);
-    int finalDamage = (1 + crit + bonus) * damage;
-    return finalDamage;
+    const float crit = countCritTime() ? critDamage : 0.0f;
+    return static_cast<int>((1 + crit + elementalAttack(enemyType)) * damage);
 }
 
 float GingerbreadMan::elementalAttack(Element enemyType) {
     if (type == Element::Water && enemyType == Element::Fire) {
-        return 0.5;
+        return 0.5f;
     }
 
     if (type == Element::Fire && enemyType == Element::Plant) {
-        return 0.7;
+        return 0.7f;
     }
 
     if (type == Element::Plant && enemyType == Element::Water) {
-        return 0.3;
+        return 0.3f;
     }
 
-    return 0.0;
+    return 0.0f;
 }
 
 bool GingerbreadMan::attacked(int incomingDamage) {
-    const int realDamage = incomingDamage - defense;
-    if(countAvoidTime()){
-        return true;
-    }
-    if (realDamage <= 0) {
+    return applyDamage(incomingDamage - defense);
+}
+
+bool GingerbreadMan::applyDamage(int realDamage) {
+    if (countAvoidTime() || realDamage <= 0) {
         return true;
     }
 
@@ -61,18 +54,16 @@ bool GingerbreadMan::attacked(int incomingDamage) {
 }
 
 std::vector<Position> GingerbreadMan::getInteractPositions() const {
-    if (pos == Position::Front) {
+    switch (pos) {
+    case Position::Front:
         return {Position::Front};
-    }
-
-    if (pos == Position::Middle) {
+    case Position::Middle:
         return {Position::Front, Position::Middle};
-    }
-
-    if (pos == Position::Back) {
+    case Position::Back:
         return {Position::Middle, Position::Back};
     }
 
+    return {};
 }
 
 Element GingerbreadMan::getElementType() const {
@@ -86,4 +77,3 @@ Position GingerbreadMan::getPosition() const {
 float GingerbreadMan::getCritDamage() const {
     return critDamage;
 }
-

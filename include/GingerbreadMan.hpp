@@ -27,11 +27,11 @@ public:
         int avoidTime
     );
 
-    virtual void levelUp() override;
+    void levelUp() override;
     virtual int attack(Element enemyType);
-    virtual bool attacked(int incomingDamage) override;
+    bool attacked(int incomingDamage) override;
     std::vector<Position> getInteractPositions() const;
-    
+
     Element getElementType() const;
     Position getPosition() const;
     float getCritDamage() const;
@@ -39,6 +39,7 @@ public:
 protected:
     float critDamage;
     float elementalAttack(Element enemyType);
+    bool applyDamage(int realDamage);
 };
 
 #endif

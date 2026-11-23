@@ -16,15 +16,6 @@ void SeaFairyCookie::levelUp() {
 }
 
 int SeaFairyCookie::attack(Element enemyType) {
-    float crit = 0;
-
-    if (countCritTime()) {
-        crit = critDamage;
-    }
-
-    float bonus = elementalAttack(enemyType);
-
-    // 爆擊時，額外加上防禦力乘以爆擊加成。
-    int finalDamage = (1 + crit + bonus) * damage + crit * defense;
-    return finalDamage;
+    const float crit = countCritTime() ? critDamage : 0.0f;
+    return static_cast<int>((1 + crit + elementalAttack(enemyType)) * damage + crit * defense);
 }

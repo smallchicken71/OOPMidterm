@@ -16,16 +16,6 @@ void SilverbellCookie::levelUp() {
 }
 
 bool SilverbellCookie::attacked(int incomingDamage) {
-    int realDamage = double(incomingDamage - defense * (1 + level / 100.0));
-
-    if (countAvoidTime()) {
-        return true;
-    }
-
-    if (realDamage <= 0) {
-        return true;
-    }
-
-    currHealth -= realDamage;
-    return false;
+    const int realDamage = static_cast<int>(incomingDamage - defense * (1 + level / 100.0));
+    return applyDamage(realDamage);
 }

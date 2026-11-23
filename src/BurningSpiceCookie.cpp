@@ -14,15 +14,8 @@ void BurningSpiceCookie::levelUp() {
 }
 
 int BurningSpiceCookie::attack(Element enemyType) {
-    float crit = 0;
-
-    if (countCritTime()) {
-        crit = critDamage;
-    }
-
-    float bonus = elementalAttack(enemyType);
-    int finalDamage = (1 + crit + bonus) * damage + 50;
-
+    const float crit = countCritTime() ? critDamage : 0.0f;
+    const int finalDamage = static_cast<int>((1 + crit + elementalAttack(enemyType)) * damage + 50);
     defenseBuff();
     return finalDamage;
 }

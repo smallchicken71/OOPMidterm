@@ -14,37 +14,14 @@ void MillennialTreeCookie::levelUp() {
 }
 
 int MillennialTreeCookie::attack(Element enemyType) {
-    float crit = 0;
-
-    if (countCritTime()) {
-        crit = critDamage;
-    }
-
-    // 先轉成 float，讓半血時算出 0.5。
-    float currentHealth = currHealth;
-    float healthRatio = currentHealth / health;
-    float bonus = elementalAttack(enemyType);
-
-    int finalDamage = (1 + crit + healthRatio + bonus) * damage;
-    return finalDamage;
+    const float crit = countCritTime() ? critDamage : 0.0f;
+    const int healthRatio = currHealth / health;
+    return static_cast<int>((1 + crit + healthRatio + elementalAttack(enemyType)) * damage);
 }
 
 bool MillennialTreeCookie::attacked(int incomingDamage) {
-    float currentHealth = currHealth;
-    float healthRatio = currentHealth / health;
-    int realDamage = incomingDamage - defense * (1 + healthRatio);
-
-    // 先用現在的防禦力計算本次傷害，再執行 buff。
+    const int healthRatio = currHealth / health;
+    const int realDamage = incomingDamage - defense * (1 + healthRatio);
     defenseBuff();
-
-    if (countAvoidTime()) {
-        return true;
-    }
-
-    if (realDamage <= 0) {
-        return true;
-    }
-
-    currHealth -= realDamage;
-    return false;
+    return applyDamage(realDamage);
 }

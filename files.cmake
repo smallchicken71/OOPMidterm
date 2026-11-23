@@ -1,0 +1,17 @@
+set(OOPMIDTERM_SOURCES
+    src/BackGingerbreadMan.cpp
+    src/BurningSpiceCookie.cpp
+    src/Character.cpp
+    src/ChiliPepperCookie.cpp
+    src/CrimsonCoralCookie.cpp
+    src/FireSpiritCookie.cpp
+    src/FrontGingerbreadMan.cpp
+    src/GingerbreadGroup.cpp
+    src/GingerbreadMan.cpp
+    src/MiddleGingerbreadMan.cpp
+    src/MillennialTreeCookie.cpp
+    src/SeaFairyCookie.cpp
+    src/SeltzerCookie.cpp
+    src/SilverbellCookie.cpp
+    src/WhiteLilyCookie.cpp
+)

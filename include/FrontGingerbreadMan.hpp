@@ -1,5 +1,6 @@
 #ifndef FRONTGINGERBREADMAN_HPP
 #define FRONTGINGERBREADMAN_HPP
+
 #include "GingerbreadMan.hpp"
 
 class FrontGingerbreadMan : public GingerbreadMan {
@@ -10,10 +11,10 @@ public:
         int damage,
         int defense,
         int health,
-        float critDamage = 0.5,
+        float critDamage = 0.5f,
         int critTime = 3,
         int avoidTime = 5
-    );    
+    );
     void defenseBuff();
 };
 #endif

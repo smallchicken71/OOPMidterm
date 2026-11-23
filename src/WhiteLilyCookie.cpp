@@ -6,33 +6,12 @@ WhiteLilyCookie::WhiteLilyCookie()
 }
 
 int WhiteLilyCookie::attack(Element enemyType) {
-    float crit = 0;
-
-    if (countCritTime()) {
-        crit = critDamage;
-    }
-
-    float bonus = elementalAttack(enemyType);
-
-    // 爆擊時，額外加上目前血量乘以爆擊加成。
-    int finalDamage = (1 + crit + bonus) * damage + crit * currHealth;
-    return finalDamage;
+    const float crit = countCritTime() ? critDamage : 0.0f;
+    return static_cast<int>((1 + crit + elementalAttack(enemyType)) * damage + crit * currHealth);
 }
 
 bool WhiteLilyCookie::attacked(int incomingDamage) {
-    int realDamage = incomingDamage - (defense + damage);
-
-    // 算完本次傷害後，才更新爆擊加成。
+    const int realDamage = incomingDamage - (defense + damage);
     criticalBuff();
-
-    if (countAvoidTime()) {
-        return true;
-    }
-
-    if (realDamage <= 0) {
-        return true;
-    }
-
-    currHealth -= realDamage;
-    return false;
+    return applyDamage(realDamage);
 }

@@ -82,7 +82,6 @@
   - 將 `level` 加 `1`。
   - 將 `damage`、`defense`、`health` 各加 `100`。
   - 將 `currHealth` 設為升級後的 `health`。
-  - 回傳 `(1 + crit) * damage`。
 - `attack(Element enemyType)`
   - 呼叫一次 `countCritTime()`，並依照爆擊結果設定 `crit`。
   - 回傳 `(1 + crit + elementalAttack(enemyType)) * damage`。

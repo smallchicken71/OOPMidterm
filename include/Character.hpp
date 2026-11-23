@@ -18,6 +18,8 @@ protected:
 
 public:
     Character(std::string name, int damage, int defense, int health, int critTime, int avoidTime);
+    virtual ~Character() = default;
+
     virtual void levelUp() = 0;
     virtual bool attacked(int incomingDamage) = 0;
 
