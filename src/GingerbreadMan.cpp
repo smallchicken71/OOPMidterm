@@ -5,7 +5,7 @@
 GingerbreadMan::GingerbreadMan(std::string name, Element type, Position pos,
                                int damage, int defense, int health,
                                float critDamage, int critTime, int avoidTime)
-    : Character(std::move(name), damage, defense, health, critTime, avoidTime),
+    : Character(name, damage, defense, health, critTime, avoidTime),
       type(type),
       pos(pos),
       critDamage(critDamage) {

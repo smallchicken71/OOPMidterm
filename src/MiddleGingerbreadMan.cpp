@@ -5,7 +5,7 @@
 MiddleGingerbreadMan::MiddleGingerbreadMan(
     std::string name, Element type, int damage, int defense, int health,
     float critDamage, int critTime, int avoidTime)
-    : GingerbreadMan(std::move(name), type, Position::Middle, damage, defense,
+    : GingerbreadMan(name, type, Position::Middle, damage, defense,
                      health, critDamage, critTime, avoidTime) {
 }
 

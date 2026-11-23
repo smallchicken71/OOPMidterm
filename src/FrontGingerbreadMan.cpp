@@ -5,7 +5,7 @@
 FrontGingerbreadMan::FrontGingerbreadMan(
     std::string name, Element type, int damage, int defense, int health,
     float critDamage, int critTime, int avoidTime)
-    : GingerbreadMan(std::move(name), type, Position::Front, damage, defense,
+    : GingerbreadMan(name, type, Position::Front, damage, defense,
                      health, critDamage, critTime, avoidTime) {
 }
 

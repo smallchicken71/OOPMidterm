@@ -1,10 +1,10 @@
-Start testing: Nov 23 21:59 ??????
+Start testing: Nov 23 22:08 ??????
 ----------------------------------------------------------
 1/109 Testing: CharacterTest.Constructor
 1/109 Test: CharacterTest.Constructor
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CharacterTest.Constructor" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CharacterTest.Constructor" start time: Nov 23 21:59 ??????
+"CharacterTest.Constructor" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -20,10 +20,10 @@ Note: Google Test filter = CharacterTest.Constructor
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CharacterTest.Constructor" end time: Nov 23 21:59 ??????
+"CharacterTest.Constructor" end time: Nov 23 22:08 ??????
 "CharacterTest.Constructor" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -31,7 +31,7 @@ Test Passed.
 2/109 Test: CharacterTest.CountCritTimeWithTrigger
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CharacterTest.CountCritTimeWithTrigger" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CharacterTest.CountCritTimeWithTrigger" start time: Nov 23 21:59 ??????
+"CharacterTest.CountCritTimeWithTrigger" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -50,7 +50,7 @@ Note: Google Test filter = CharacterTest.CountCritTimeWithTrigger
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CharacterTest.CountCritTimeWithTrigger" end time: Nov 23 21:59 ??????
+"CharacterTest.CountCritTimeWithTrigger" end time: Nov 23 22:08 ??????
 "CharacterTest.CountCritTimeWithTrigger" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -58,7 +58,7 @@ Test Passed.
 3/109 Test: CharacterTest.CountCritTimeWithoutTrigger
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CharacterTest.CountCritTimeWithoutTrigger" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CharacterTest.CountCritTimeWithoutTrigger" start time: Nov 23 21:59 ??????
+"CharacterTest.CountCritTimeWithoutTrigger" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -77,7 +77,7 @@ Note: Google Test filter = CharacterTest.CountCritTimeWithoutTrigger
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CharacterTest.CountCritTimeWithoutTrigger" end time: Nov 23 21:59 ??????
+"CharacterTest.CountCritTimeWithoutTrigger" end time: Nov 23 22:08 ??????
 "CharacterTest.CountCritTimeWithoutTrigger" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -85,7 +85,7 @@ Test Passed.
 4/109 Test: CharacterTest.CountAvoidTimeWithTrigger
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CharacterTest.CountAvoidTimeWithTrigger" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CharacterTest.CountAvoidTimeWithTrigger" start time: Nov 23 21:59 ??????
+"CharacterTest.CountAvoidTimeWithTrigger" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -104,7 +104,7 @@ Note: Google Test filter = CharacterTest.CountAvoidTimeWithTrigger
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CharacterTest.CountAvoidTimeWithTrigger" end time: Nov 23 21:59 ??????
+"CharacterTest.CountAvoidTimeWithTrigger" end time: Nov 23 22:08 ??????
 "CharacterTest.CountAvoidTimeWithTrigger" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -112,7 +112,7 @@ Test Passed.
 5/109 Test: CharacterTest.CountAvoidTimeWithoutTrigger
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CharacterTest.CountAvoidTimeWithoutTrigger" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CharacterTest.CountAvoidTimeWithoutTrigger" start time: Nov 23 21:59 ??????
+"CharacterTest.CountAvoidTimeWithoutTrigger" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -131,7 +131,7 @@ Note: Google Test filter = CharacterTest.CountAvoidTimeWithoutTrigger
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CharacterTest.CountAvoidTimeWithoutTrigger" end time: Nov 23 21:59 ??????
+"CharacterTest.CountAvoidTimeWithoutTrigger" end time: Nov 23 22:08 ??????
 "CharacterTest.CountAvoidTimeWithoutTrigger" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -139,7 +139,7 @@ Test Passed.
 6/109 Test: CookieTest.BurningSpiceCookieConstructor
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.BurningSpiceCookieConstructor" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.BurningSpiceCookieConstructor" start time: Nov 23 21:59 ??????
+"CookieTest.BurningSpiceCookieConstructor" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -158,7 +158,7 @@ Note: Google Test filter = CookieTest.BurningSpiceCookieConstructor
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.BurningSpiceCookieConstructor" end time: Nov 23 21:59 ??????
+"CookieTest.BurningSpiceCookieConstructor" end time: Nov 23 22:08 ??????
 "CookieTest.BurningSpiceCookieConstructor" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -166,7 +166,7 @@ Test Passed.
 7/109 Test: CookieTest.BurningSpiceCookieLevelUp
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.BurningSpiceCookieLevelUp" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.BurningSpiceCookieLevelUp" start time: Nov 23 21:59 ??????
+"CookieTest.BurningSpiceCookieLevelUp" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -185,7 +185,7 @@ Note: Google Test filter = CookieTest.BurningSpiceCookieLevelUp
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.BurningSpiceCookieLevelUp" end time: Nov 23 21:59 ??????
+"CookieTest.BurningSpiceCookieLevelUp" end time: Nov 23 22:08 ??????
 "CookieTest.BurningSpiceCookieLevelUp" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -193,7 +193,7 @@ Test Passed.
 8/109 Test: CookieTest.BurningSpiceCookieAttack
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.BurningSpiceCookieAttack" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.BurningSpiceCookieAttack" start time: Nov 23 21:59 ??????
+"CookieTest.BurningSpiceCookieAttack" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -212,7 +212,7 @@ Note: Google Test filter = CookieTest.BurningSpiceCookieAttack
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.BurningSpiceCookieAttack" end time: Nov 23 21:59 ??????
+"CookieTest.BurningSpiceCookieAttack" end time: Nov 23 22:08 ??????
 "CookieTest.BurningSpiceCookieAttack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -220,7 +220,7 @@ Test Passed.
 9/109 Test: CookieTest.BurningSpiceCookieCriticalAttack
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.BurningSpiceCookieCriticalAttack" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.BurningSpiceCookieCriticalAttack" start time: Nov 23 21:59 ??????
+"CookieTest.BurningSpiceCookieCriticalAttack" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -239,7 +239,7 @@ Note: Google Test filter = CookieTest.BurningSpiceCookieCriticalAttack
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.BurningSpiceCookieCriticalAttack" end time: Nov 23 21:59 ??????
+"CookieTest.BurningSpiceCookieCriticalAttack" end time: Nov 23 22:08 ??????
 "CookieTest.BurningSpiceCookieCriticalAttack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -247,7 +247,7 @@ Test Passed.
 10/109 Test: CookieTest.BurningSpiceCookieAttackAgainstPlant
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.BurningSpiceCookieAttackAgainstPlant" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.BurningSpiceCookieAttackAgainstPlant" start time: Nov 23 21:59 ??????
+"CookieTest.BurningSpiceCookieAttackAgainstPlant" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -266,7 +266,7 @@ Note: Google Test filter = CookieTest.BurningSpiceCookieAttackAgainstPlant
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.BurningSpiceCookieAttackAgainstPlant" end time: Nov 23 21:59 ??????
+"CookieTest.BurningSpiceCookieAttackAgainstPlant" end time: Nov 23 22:08 ??????
 "CookieTest.BurningSpiceCookieAttackAgainstPlant" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -274,7 +274,7 @@ Test Passed.
 11/109 Test: CookieTest.BurningSpiceCookieCriticalAttackAgainstPlant
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.BurningSpiceCookieCriticalAttackAgainstPlant" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.BurningSpiceCookieCriticalAttackAgainstPlant" start time: Nov 23 21:59 ??????
+"CookieTest.BurningSpiceCookieCriticalAttackAgainstPlant" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -293,7 +293,7 @@ Note: Google Test filter = CookieTest.BurningSpiceCookieCriticalAttackAgainstPla
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.BurningSpiceCookieCriticalAttackAgainstPlant" end time: Nov 23 21:59 ??????
+"CookieTest.BurningSpiceCookieCriticalAttackAgainstPlant" end time: Nov 23 22:08 ??????
 "CookieTest.BurningSpiceCookieCriticalAttackAgainstPlant" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -301,7 +301,7 @@ Test Passed.
 12/109 Test: CookieTest.BurningSpiceCookieAttacked
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.BurningSpiceCookieAttacked" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.BurningSpiceCookieAttacked" start time: Nov 23 21:59 ??????
+"CookieTest.BurningSpiceCookieAttacked" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -320,7 +320,7 @@ Note: Google Test filter = CookieTest.BurningSpiceCookieAttacked
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.BurningSpiceCookieAttacked" end time: Nov 23 21:59 ??????
+"CookieTest.BurningSpiceCookieAttacked" end time: Nov 23 22:08 ??????
 "CookieTest.BurningSpiceCookieAttacked" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -328,7 +328,7 @@ Test Passed.
 13/109 Test: CookieTest.ChiliPepperCookieConstructor
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.ChiliPepperCookieConstructor" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.ChiliPepperCookieConstructor" start time: Nov 23 21:59 ??????
+"CookieTest.ChiliPepperCookieConstructor" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -347,7 +347,7 @@ Note: Google Test filter = CookieTest.ChiliPepperCookieConstructor
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.ChiliPepperCookieConstructor" end time: Nov 23 21:59 ??????
+"CookieTest.ChiliPepperCookieConstructor" end time: Nov 23 22:08 ??????
 "CookieTest.ChiliPepperCookieConstructor" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -355,7 +355,7 @@ Test Passed.
 14/109 Test: CookieTest.ChiliPepperCookieLevelUp
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.ChiliPepperCookieLevelUp" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.ChiliPepperCookieLevelUp" start time: Nov 23 21:59 ??????
+"CookieTest.ChiliPepperCookieLevelUp" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -374,7 +374,7 @@ Note: Google Test filter = CookieTest.ChiliPepperCookieLevelUp
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.ChiliPepperCookieLevelUp" end time: Nov 23 21:59 ??????
+"CookieTest.ChiliPepperCookieLevelUp" end time: Nov 23 22:08 ??????
 "CookieTest.ChiliPepperCookieLevelUp" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -382,7 +382,7 @@ Test Passed.
 15/109 Test: CookieTest.ChiliPepperCookieAttack
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.ChiliPepperCookieAttack" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.ChiliPepperCookieAttack" start time: Nov 23 21:59 ??????
+"CookieTest.ChiliPepperCookieAttack" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -401,7 +401,7 @@ Note: Google Test filter = CookieTest.ChiliPepperCookieAttack
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.ChiliPepperCookieAttack" end time: Nov 23 21:59 ??????
+"CookieTest.ChiliPepperCookieAttack" end time: Nov 23 22:08 ??????
 "CookieTest.ChiliPepperCookieAttack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -409,7 +409,7 @@ Test Passed.
 16/109 Test: CookieTest.ChiliPepperCookieCriticalAttack
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.ChiliPepperCookieCriticalAttack" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.ChiliPepperCookieCriticalAttack" start time: Nov 23 21:59 ??????
+"CookieTest.ChiliPepperCookieCriticalAttack" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -428,7 +428,7 @@ Note: Google Test filter = CookieTest.ChiliPepperCookieCriticalAttack
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.ChiliPepperCookieCriticalAttack" end time: Nov 23 21:59 ??????
+"CookieTest.ChiliPepperCookieCriticalAttack" end time: Nov 23 22:08 ??????
 "CookieTest.ChiliPepperCookieCriticalAttack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -436,7 +436,7 @@ Test Passed.
 17/109 Test: CookieTest.ChiliPepperCookieAttackAgainstPlant
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.ChiliPepperCookieAttackAgainstPlant" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.ChiliPepperCookieAttackAgainstPlant" start time: Nov 23 21:59 ??????
+"CookieTest.ChiliPepperCookieAttackAgainstPlant" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -455,7 +455,7 @@ Note: Google Test filter = CookieTest.ChiliPepperCookieAttackAgainstPlant
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.ChiliPepperCookieAttackAgainstPlant" end time: Nov 23 21:59 ??????
+"CookieTest.ChiliPepperCookieAttackAgainstPlant" end time: Nov 23 22:08 ??????
 "CookieTest.ChiliPepperCookieAttackAgainstPlant" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -463,7 +463,7 @@ Test Passed.
 18/109 Test: CookieTest.ChiliPepperCookieCriticalAttackAgainstPlant
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.ChiliPepperCookieCriticalAttackAgainstPlant" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.ChiliPepperCookieCriticalAttackAgainstPlant" start time: Nov 23 21:59 ??????
+"CookieTest.ChiliPepperCookieCriticalAttackAgainstPlant" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -482,7 +482,7 @@ Note: Google Test filter = CookieTest.ChiliPepperCookieCriticalAttackAgainstPlan
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.ChiliPepperCookieCriticalAttackAgainstPlant" end time: Nov 23 21:59 ??????
+"CookieTest.ChiliPepperCookieCriticalAttackAgainstPlant" end time: Nov 23 22:08 ??????
 "CookieTest.ChiliPepperCookieCriticalAttackAgainstPlant" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -490,7 +490,7 @@ Test Passed.
 19/109 Test: CookieTest.ChiliPepperCookieAttacked
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.ChiliPepperCookieAttacked" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.ChiliPepperCookieAttacked" start time: Nov 23 21:59 ??????
+"CookieTest.ChiliPepperCookieAttacked" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -509,7 +509,7 @@ Note: Google Test filter = CookieTest.ChiliPepperCookieAttacked
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.ChiliPepperCookieAttacked" end time: Nov 23 21:59 ??????
+"CookieTest.ChiliPepperCookieAttacked" end time: Nov 23 22:08 ??????
 "CookieTest.ChiliPepperCookieAttacked" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -517,7 +517,7 @@ Test Passed.
 20/109 Test: CookieTest.FireSpiritCookieConstructor
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.FireSpiritCookieConstructor" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.FireSpiritCookieConstructor" start time: Nov 23 21:59 ??????
+"CookieTest.FireSpiritCookieConstructor" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -536,7 +536,7 @@ Note: Google Test filter = CookieTest.FireSpiritCookieConstructor
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.FireSpiritCookieConstructor" end time: Nov 23 21:59 ??????
+"CookieTest.FireSpiritCookieConstructor" end time: Nov 23 22:08 ??????
 "CookieTest.FireSpiritCookieConstructor" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -544,7 +544,7 @@ Test Passed.
 21/109 Test: CookieTest.FireSpiritCookieLevelUp
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.FireSpiritCookieLevelUp" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.FireSpiritCookieLevelUp" start time: Nov 23 21:59 ??????
+"CookieTest.FireSpiritCookieLevelUp" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -553,25 +553,17 @@ Note: Google Test filter = CookieTest.FireSpiritCookieLevelUp
 [----------] Global test environment set-up.
 [----------] 1 test from CookieTest
 [ RUN      ] CookieTest.FireSpiritCookieLevelUp
-C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\test\ut_fire_cookie.cpp(51): error: The difference between cookie.attack(enemyType) and criticalDamage is 360, which exceeds 1, where
-cookie.attack(enemyType) evaluates to 600,
-criticalDamage evaluates to 960, and
-1 evaluates to 1.
-[  FAILED  ] CookieTest.FireSpiritCookieLevelUp (0 ms)
+[       OK ] CookieTest.FireSpiritCookieLevelUp (0 ms)
 [----------] 1 test from CookieTest (0 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (0 ms total)
-[  PASSED  ] 0 tests.
-[  FAILED  ] 1 test, listed below:
-[  FAILED  ] CookieTest.FireSpiritCookieLevelUp
-
- 1 FAILED TEST
+[  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
-Test Failed.
-"CookieTest.FireSpiritCookieLevelUp" end time: Nov 23 21:59 ??????
+Test Passed.
+"CookieTest.FireSpiritCookieLevelUp" end time: Nov 23 22:08 ??????
 "CookieTest.FireSpiritCookieLevelUp" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -579,7 +571,7 @@ Test Failed.
 22/109 Test: CookieTest.FireSpiritCookieAttack
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.FireSpiritCookieAttack" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.FireSpiritCookieAttack" start time: Nov 23 21:59 ??????
+"CookieTest.FireSpiritCookieAttack" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -598,7 +590,7 @@ Note: Google Test filter = CookieTest.FireSpiritCookieAttack
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.FireSpiritCookieAttack" end time: Nov 23 21:59 ??????
+"CookieTest.FireSpiritCookieAttack" end time: Nov 23 22:08 ??????
 "CookieTest.FireSpiritCookieAttack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -606,7 +598,7 @@ Test Passed.
 23/109 Test: CookieTest.FireSpiritCookieCriticalAttack
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.FireSpiritCookieCriticalAttack" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.FireSpiritCookieCriticalAttack" start time: Nov 23 21:59 ??????
+"CookieTest.FireSpiritCookieCriticalAttack" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -615,25 +607,17 @@ Note: Google Test filter = CookieTest.FireSpiritCookieCriticalAttack
 [----------] Global test environment set-up.
 [----------] 1 test from CookieTest
 [ RUN      ] CookieTest.FireSpiritCookieCriticalAttack
-C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\test\ut_fire_cookie.cpp(51): error: The difference between cookie.attack(enemyType) and criticalDamage is 250, which exceeds 1, where
-cookie.attack(enemyType) evaluates to 500,
-criticalDamage evaluates to 750, and
-1 evaluates to 1.
-[  FAILED  ] CookieTest.FireSpiritCookieCriticalAttack (0 ms)
+[       OK ] CookieTest.FireSpiritCookieCriticalAttack (0 ms)
 [----------] 1 test from CookieTest (0 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (0 ms total)
-[  PASSED  ] 0 tests.
-[  FAILED  ] 1 test, listed below:
-[  FAILED  ] CookieTest.FireSpiritCookieCriticalAttack
-
- 1 FAILED TEST
+[  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
-Test Failed.
-"CookieTest.FireSpiritCookieCriticalAttack" end time: Nov 23 21:59 ??????
+Test Passed.
+"CookieTest.FireSpiritCookieCriticalAttack" end time: Nov 23 22:08 ??????
 "CookieTest.FireSpiritCookieCriticalAttack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -641,7 +625,7 @@ Test Failed.
 24/109 Test: CookieTest.FireSpiritCookieAttackAgainstPlant
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.FireSpiritCookieAttackAgainstPlant" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.FireSpiritCookieAttackAgainstPlant" start time: Nov 23 21:59 ??????
+"CookieTest.FireSpiritCookieAttackAgainstPlant" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -660,7 +644,7 @@ Note: Google Test filter = CookieTest.FireSpiritCookieAttackAgainstPlant
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.FireSpiritCookieAttackAgainstPlant" end time: Nov 23 21:59 ??????
+"CookieTest.FireSpiritCookieAttackAgainstPlant" end time: Nov 23 22:08 ??????
 "CookieTest.FireSpiritCookieAttackAgainstPlant" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -668,7 +652,7 @@ Test Passed.
 25/109 Test: CookieTest.FireSpiritCookieCriticalAttackAgainstPlant
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.FireSpiritCookieCriticalAttackAgainstPlant" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.FireSpiritCookieCriticalAttackAgainstPlant" start time: Nov 23 21:59 ??????
+"CookieTest.FireSpiritCookieCriticalAttackAgainstPlant" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -677,25 +661,17 @@ Note: Google Test filter = CookieTest.FireSpiritCookieCriticalAttackAgainstPlant
 [----------] Global test environment set-up.
 [----------] 1 test from CookieTest
 [ RUN      ] CookieTest.FireSpiritCookieCriticalAttackAgainstPlant
-C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\test\ut_fire_cookie.cpp(51): error: The difference between cookie.attack(enemyType) and criticalDamage is 250, which exceeds 1, where
-cookie.attack(enemyType) evaluates to 850,
-criticalDamage evaluates to 1100, and
-1 evaluates to 1.
-[  FAILED  ] CookieTest.FireSpiritCookieCriticalAttackAgainstPlant (0 ms)
+[       OK ] CookieTest.FireSpiritCookieCriticalAttackAgainstPlant (0 ms)
 [----------] 1 test from CookieTest (0 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (0 ms total)
-[  PASSED  ] 0 tests.
-[  FAILED  ] 1 test, listed below:
-[  FAILED  ] CookieTest.FireSpiritCookieCriticalAttackAgainstPlant
-
- 1 FAILED TEST
+[  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
-Test Failed.
-"CookieTest.FireSpiritCookieCriticalAttackAgainstPlant" end time: Nov 23 21:59 ??????
+Test Passed.
+"CookieTest.FireSpiritCookieCriticalAttackAgainstPlant" end time: Nov 23 22:08 ??????
 "CookieTest.FireSpiritCookieCriticalAttackAgainstPlant" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -703,7 +679,7 @@ Test Failed.
 26/109 Test: CookieTest.FireSpiritCookieAttacked
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.FireSpiritCookieAttacked" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.FireSpiritCookieAttacked" start time: Nov 23 21:59 ??????
+"CookieTest.FireSpiritCookieAttacked" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -722,7 +698,7 @@ Note: Google Test filter = CookieTest.FireSpiritCookieAttacked
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.FireSpiritCookieAttacked" end time: Nov 23 21:59 ??????
+"CookieTest.FireSpiritCookieAttacked" end time: Nov 23 22:08 ??????
 "CookieTest.FireSpiritCookieAttacked" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -730,7 +706,7 @@ Test Passed.
 27/109 Test: CookieTest.MillennialTreeCookieConstructor
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.MillennialTreeCookieConstructor" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.MillennialTreeCookieConstructor" start time: Nov 23 21:59 ??????
+"CookieTest.MillennialTreeCookieConstructor" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -749,7 +725,7 @@ Note: Google Test filter = CookieTest.MillennialTreeCookieConstructor
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.MillennialTreeCookieConstructor" end time: Nov 23 21:59 ??????
+"CookieTest.MillennialTreeCookieConstructor" end time: Nov 23 22:08 ??????
 "CookieTest.MillennialTreeCookieConstructor" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -757,7 +733,7 @@ Test Passed.
 28/109 Test: CookieTest.MillennialTreeCookieLevelUp
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.MillennialTreeCookieLevelUp" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.MillennialTreeCookieLevelUp" start time: Nov 23 21:59 ??????
+"CookieTest.MillennialTreeCookieLevelUp" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -776,7 +752,7 @@ Note: Google Test filter = CookieTest.MillennialTreeCookieLevelUp
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.MillennialTreeCookieLevelUp" end time: Nov 23 21:59 ??????
+"CookieTest.MillennialTreeCookieLevelUp" end time: Nov 23 22:08 ??????
 "CookieTest.MillennialTreeCookieLevelUp" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -784,7 +760,7 @@ Test Passed.
 29/109 Test: CookieTest.MillennialTreeCookieAttack
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.MillennialTreeCookieAttack" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.MillennialTreeCookieAttack" start time: Nov 23 21:59 ??????
+"CookieTest.MillennialTreeCookieAttack" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -803,7 +779,7 @@ Note: Google Test filter = CookieTest.MillennialTreeCookieAttack
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.MillennialTreeCookieAttack" end time: Nov 23 21:59 ??????
+"CookieTest.MillennialTreeCookieAttack" end time: Nov 23 22:08 ??????
 "CookieTest.MillennialTreeCookieAttack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -811,7 +787,7 @@ Test Passed.
 30/109 Test: CookieTest.MillennialTreeCookieCriticalAttack
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.MillennialTreeCookieCriticalAttack" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.MillennialTreeCookieCriticalAttack" start time: Nov 23 21:59 ??????
+"CookieTest.MillennialTreeCookieCriticalAttack" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -830,7 +806,7 @@ Note: Google Test filter = CookieTest.MillennialTreeCookieCriticalAttack
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.MillennialTreeCookieCriticalAttack" end time: Nov 23 21:59 ??????
+"CookieTest.MillennialTreeCookieCriticalAttack" end time: Nov 23 22:08 ??????
 "CookieTest.MillennialTreeCookieCriticalAttack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -838,7 +814,7 @@ Test Passed.
 31/109 Test: CookieTest.MillennialTreeCookieAttackAgainstWater
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.MillennialTreeCookieAttackAgainstWater" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.MillennialTreeCookieAttackAgainstWater" start time: Nov 23 21:59 ??????
+"CookieTest.MillennialTreeCookieAttackAgainstWater" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -857,7 +833,7 @@ Note: Google Test filter = CookieTest.MillennialTreeCookieAttackAgainstWater
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.MillennialTreeCookieAttackAgainstWater" end time: Nov 23 21:59 ??????
+"CookieTest.MillennialTreeCookieAttackAgainstWater" end time: Nov 23 22:08 ??????
 "CookieTest.MillennialTreeCookieAttackAgainstWater" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -865,7 +841,7 @@ Test Passed.
 32/109 Test: CookieTest.MillennialTreeCookieCriticalAttackAgainstWater
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.MillennialTreeCookieCriticalAttackAgainstWater" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.MillennialTreeCookieCriticalAttackAgainstWater" start time: Nov 23 21:59 ??????
+"CookieTest.MillennialTreeCookieCriticalAttackAgainstWater" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -884,7 +860,7 @@ Note: Google Test filter = CookieTest.MillennialTreeCookieCriticalAttackAgainstW
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.MillennialTreeCookieCriticalAttackAgainstWater" end time: Nov 23 21:59 ??????
+"CookieTest.MillennialTreeCookieCriticalAttackAgainstWater" end time: Nov 23 22:08 ??????
 "CookieTest.MillennialTreeCookieCriticalAttackAgainstWater" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -892,7 +868,7 @@ Test Passed.
 33/109 Test: CookieTest.MillennialTreeCookieAttacked
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.MillennialTreeCookieAttacked" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.MillennialTreeCookieAttacked" start time: Nov 23 21:59 ??????
+"CookieTest.MillennialTreeCookieAttacked" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -911,7 +887,7 @@ Note: Google Test filter = CookieTest.MillennialTreeCookieAttacked
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.MillennialTreeCookieAttacked" end time: Nov 23 21:59 ??????
+"CookieTest.MillennialTreeCookieAttacked" end time: Nov 23 22:08 ??????
 "CookieTest.MillennialTreeCookieAttacked" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -919,7 +895,7 @@ Test Passed.
 34/109 Test: CookieTest.WhiteLilyCookieConstructor
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.WhiteLilyCookieConstructor" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.WhiteLilyCookieConstructor" start time: Nov 23 21:59 ??????
+"CookieTest.WhiteLilyCookieConstructor" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -938,7 +914,7 @@ Note: Google Test filter = CookieTest.WhiteLilyCookieConstructor
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.WhiteLilyCookieConstructor" end time: Nov 23 21:59 ??????
+"CookieTest.WhiteLilyCookieConstructor" end time: Nov 23 22:08 ??????
 "CookieTest.WhiteLilyCookieConstructor" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -946,7 +922,7 @@ Test Passed.
 35/109 Test: CookieTest.WhiteLilyCookieLevelUp
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.WhiteLilyCookieLevelUp" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.WhiteLilyCookieLevelUp" start time: Nov 23 21:59 ??????
+"CookieTest.WhiteLilyCookieLevelUp" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -965,7 +941,7 @@ Note: Google Test filter = CookieTest.WhiteLilyCookieLevelUp
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.WhiteLilyCookieLevelUp" end time: Nov 23 21:59 ??????
+"CookieTest.WhiteLilyCookieLevelUp" end time: Nov 23 22:08 ??????
 "CookieTest.WhiteLilyCookieLevelUp" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -973,7 +949,7 @@ Test Passed.
 36/109 Test: CookieTest.WhiteLilyCookieAttack
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.WhiteLilyCookieAttack" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.WhiteLilyCookieAttack" start time: Nov 23 21:59 ??????
+"CookieTest.WhiteLilyCookieAttack" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -992,7 +968,7 @@ Note: Google Test filter = CookieTest.WhiteLilyCookieAttack
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.WhiteLilyCookieAttack" end time: Nov 23 21:59 ??????
+"CookieTest.WhiteLilyCookieAttack" end time: Nov 23 22:08 ??????
 "CookieTest.WhiteLilyCookieAttack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1000,7 +976,7 @@ Test Passed.
 37/109 Test: CookieTest.WhiteLilyCookieCriticalAttack
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.WhiteLilyCookieCriticalAttack" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.WhiteLilyCookieCriticalAttack" start time: Nov 23 21:59 ??????
+"CookieTest.WhiteLilyCookieCriticalAttack" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1019,7 +995,7 @@ Note: Google Test filter = CookieTest.WhiteLilyCookieCriticalAttack
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.WhiteLilyCookieCriticalAttack" end time: Nov 23 21:59 ??????
+"CookieTest.WhiteLilyCookieCriticalAttack" end time: Nov 23 22:08 ??????
 "CookieTest.WhiteLilyCookieCriticalAttack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1027,7 +1003,7 @@ Test Passed.
 38/109 Test: CookieTest.WhiteLilyCookieAttackAgainstWater
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.WhiteLilyCookieAttackAgainstWater" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.WhiteLilyCookieAttackAgainstWater" start time: Nov 23 21:59 ??????
+"CookieTest.WhiteLilyCookieAttackAgainstWater" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1046,7 +1022,7 @@ Note: Google Test filter = CookieTest.WhiteLilyCookieAttackAgainstWater
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.WhiteLilyCookieAttackAgainstWater" end time: Nov 23 21:59 ??????
+"CookieTest.WhiteLilyCookieAttackAgainstWater" end time: Nov 23 22:08 ??????
 "CookieTest.WhiteLilyCookieAttackAgainstWater" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1054,7 +1030,7 @@ Test Passed.
 39/109 Test: CookieTest.WhiteLilyCookieCriticalAttackAgainstWater
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.WhiteLilyCookieCriticalAttackAgainstWater" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.WhiteLilyCookieCriticalAttackAgainstWater" start time: Nov 23 21:59 ??????
+"CookieTest.WhiteLilyCookieCriticalAttackAgainstWater" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1070,10 +1046,10 @@ Note: Google Test filter = CookieTest.WhiteLilyCookieCriticalAttackAgainstWater
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.01 sec
+Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.WhiteLilyCookieCriticalAttackAgainstWater" end time: Nov 23 21:59 ??????
+"CookieTest.WhiteLilyCookieCriticalAttackAgainstWater" end time: Nov 23 22:08 ??????
 "CookieTest.WhiteLilyCookieCriticalAttackAgainstWater" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1081,7 +1057,7 @@ Test Passed.
 40/109 Test: CookieTest.WhiteLilyCookieAttacked
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.WhiteLilyCookieAttacked" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.WhiteLilyCookieAttacked" start time: Nov 23 21:59 ??????
+"CookieTest.WhiteLilyCookieAttacked" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1100,7 +1076,7 @@ Note: Google Test filter = CookieTest.WhiteLilyCookieAttacked
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.WhiteLilyCookieAttacked" end time: Nov 23 21:59 ??????
+"CookieTest.WhiteLilyCookieAttacked" end time: Nov 23 22:08 ??????
 "CookieTest.WhiteLilyCookieAttacked" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1108,7 +1084,7 @@ Test Passed.
 41/109 Test: CookieTest.SilverbellCookieConstructor
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SilverbellCookieConstructor" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SilverbellCookieConstructor" start time: Nov 23 21:59 ??????
+"CookieTest.SilverbellCookieConstructor" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1127,7 +1103,7 @@ Note: Google Test filter = CookieTest.SilverbellCookieConstructor
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.SilverbellCookieConstructor" end time: Nov 23 21:59 ??????
+"CookieTest.SilverbellCookieConstructor" end time: Nov 23 22:08 ??????
 "CookieTest.SilverbellCookieConstructor" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1135,7 +1111,7 @@ Test Passed.
 42/109 Test: CookieTest.SilverbellCookieLevelUp
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SilverbellCookieLevelUp" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SilverbellCookieLevelUp" start time: Nov 23 21:59 ??????
+"CookieTest.SilverbellCookieLevelUp" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1154,7 +1130,7 @@ Note: Google Test filter = CookieTest.SilverbellCookieLevelUp
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.SilverbellCookieLevelUp" end time: Nov 23 21:59 ??????
+"CookieTest.SilverbellCookieLevelUp" end time: Nov 23 22:08 ??????
 "CookieTest.SilverbellCookieLevelUp" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1162,7 +1138,7 @@ Test Passed.
 43/109 Test: CookieTest.SilverbellCookieAttack
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SilverbellCookieAttack" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SilverbellCookieAttack" start time: Nov 23 21:59 ??????
+"CookieTest.SilverbellCookieAttack" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1181,7 +1157,7 @@ Note: Google Test filter = CookieTest.SilverbellCookieAttack
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.SilverbellCookieAttack" end time: Nov 23 21:59 ??????
+"CookieTest.SilverbellCookieAttack" end time: Nov 23 22:08 ??????
 "CookieTest.SilverbellCookieAttack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1189,7 +1165,7 @@ Test Passed.
 44/109 Test: CookieTest.SilverbellCookieCriticalAttack
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SilverbellCookieCriticalAttack" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SilverbellCookieCriticalAttack" start time: Nov 23 21:59 ??????
+"CookieTest.SilverbellCookieCriticalAttack" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1198,25 +1174,17 @@ Note: Google Test filter = CookieTest.SilverbellCookieCriticalAttack
 [----------] Global test environment set-up.
 [----------] 1 test from CookieTest
 [ RUN      ] CookieTest.SilverbellCookieCriticalAttack
-C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\test\ut_plant_cookie.cpp(51): error: The difference between cookie.attack(enemyType) and criticalDamage is 160, which exceeds 1, where
-cookie.attack(enemyType) evaluates to 200,
-criticalDamage evaluates to 360, and
-1 evaluates to 1.
-[  FAILED  ] CookieTest.SilverbellCookieCriticalAttack (0 ms)
+[       OK ] CookieTest.SilverbellCookieCriticalAttack (0 ms)
 [----------] 1 test from CookieTest (0 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (0 ms total)
-[  PASSED  ] 0 tests.
-[  FAILED  ] 1 test, listed below:
-[  FAILED  ] CookieTest.SilverbellCookieCriticalAttack
-
- 1 FAILED TEST
+[  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
-Test Failed.
-"CookieTest.SilverbellCookieCriticalAttack" end time: Nov 23 21:59 ??????
+Test Passed.
+"CookieTest.SilverbellCookieCriticalAttack" end time: Nov 23 22:08 ??????
 "CookieTest.SilverbellCookieCriticalAttack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1224,7 +1192,7 @@ Test Failed.
 45/109 Test: CookieTest.SilverbellCookieAttackAgainstWater
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SilverbellCookieAttackAgainstWater" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SilverbellCookieAttackAgainstWater" start time: Nov 23 21:59 ??????
+"CookieTest.SilverbellCookieAttackAgainstWater" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1240,10 +1208,10 @@ Note: Google Test filter = CookieTest.SilverbellCookieAttackAgainstWater
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.SilverbellCookieAttackAgainstWater" end time: Nov 23 21:59 ??????
+"CookieTest.SilverbellCookieAttackAgainstWater" end time: Nov 23 22:08 ??????
 "CookieTest.SilverbellCookieAttackAgainstWater" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1251,7 +1219,7 @@ Test Passed.
 46/109 Test: CookieTest.SilverbellCookieCriticalAttackAgainstWater
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SilverbellCookieCriticalAttackAgainstWater" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SilverbellCookieCriticalAttackAgainstWater" start time: Nov 23 21:59 ??????
+"CookieTest.SilverbellCookieCriticalAttackAgainstWater" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1260,25 +1228,17 @@ Note: Google Test filter = CookieTest.SilverbellCookieCriticalAttackAgainstWater
 [----------] Global test environment set-up.
 [----------] 1 test from CookieTest
 [ RUN      ] CookieTest.SilverbellCookieCriticalAttackAgainstWater
-C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\test\ut_plant_cookie.cpp(51): error: The difference between cookie.attack(enemyType) and criticalDamage is 160, which exceeds 1, where
-cookie.attack(enemyType) evaluates to 260,
-criticalDamage evaluates to 420, and
-1 evaluates to 1.
-[  FAILED  ] CookieTest.SilverbellCookieCriticalAttackAgainstWater (0 ms)
+[       OK ] CookieTest.SilverbellCookieCriticalAttackAgainstWater (0 ms)
 [----------] 1 test from CookieTest (0 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (0 ms total)
-[  PASSED  ] 0 tests.
-[  FAILED  ] 1 test, listed below:
-[  FAILED  ] CookieTest.SilverbellCookieCriticalAttackAgainstWater
-
- 1 FAILED TEST
+[  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
-Test Failed.
-"CookieTest.SilverbellCookieCriticalAttackAgainstWater" end time: Nov 23 21:59 ??????
+Test Passed.
+"CookieTest.SilverbellCookieCriticalAttackAgainstWater" end time: Nov 23 22:08 ??????
 "CookieTest.SilverbellCookieCriticalAttackAgainstWater" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1286,7 +1246,7 @@ Test Failed.
 47/109 Test: CookieTest.SilverbellCookieAttacked
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SilverbellCookieAttacked" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SilverbellCookieAttacked" start time: Nov 23 21:59 ??????
+"CookieTest.SilverbellCookieAttacked" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1302,10 +1262,10 @@ Note: Google Test filter = CookieTest.SilverbellCookieAttacked
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.SilverbellCookieAttacked" end time: Nov 23 21:59 ??????
+"CookieTest.SilverbellCookieAttacked" end time: Nov 23 22:08 ??????
 "CookieTest.SilverbellCookieAttacked" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1313,7 +1273,7 @@ Test Passed.
 48/109 Test: CookieTest.CrimsonCoralCookieConstructor
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.CrimsonCoralCookieConstructor" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.CrimsonCoralCookieConstructor" start time: Nov 23 21:59 ??????
+"CookieTest.CrimsonCoralCookieConstructor" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1332,7 +1292,7 @@ Note: Google Test filter = CookieTest.CrimsonCoralCookieConstructor
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.CrimsonCoralCookieConstructor" end time: Nov 23 21:59 ??????
+"CookieTest.CrimsonCoralCookieConstructor" end time: Nov 23 22:08 ??????
 "CookieTest.CrimsonCoralCookieConstructor" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1340,7 +1300,7 @@ Test Passed.
 49/109 Test: CookieTest.CrimsonCoralCookieLevelUp
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.CrimsonCoralCookieLevelUp" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.CrimsonCoralCookieLevelUp" start time: Nov 23 21:59 ??????
+"CookieTest.CrimsonCoralCookieLevelUp" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1359,7 +1319,7 @@ Note: Google Test filter = CookieTest.CrimsonCoralCookieLevelUp
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.CrimsonCoralCookieLevelUp" end time: Nov 23 21:59 ??????
+"CookieTest.CrimsonCoralCookieLevelUp" end time: Nov 23 22:08 ??????
 "CookieTest.CrimsonCoralCookieLevelUp" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1367,7 +1327,7 @@ Test Passed.
 50/109 Test: CookieTest.CrimsonCoralCookieAttack
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.CrimsonCoralCookieAttack" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.CrimsonCoralCookieAttack" start time: Nov 23 21:59 ??????
+"CookieTest.CrimsonCoralCookieAttack" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1386,7 +1346,7 @@ Note: Google Test filter = CookieTest.CrimsonCoralCookieAttack
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.CrimsonCoralCookieAttack" end time: Nov 23 21:59 ??????
+"CookieTest.CrimsonCoralCookieAttack" end time: Nov 23 22:08 ??????
 "CookieTest.CrimsonCoralCookieAttack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1394,7 +1354,7 @@ Test Passed.
 51/109 Test: CookieTest.CrimsonCoralCookieCriticalAttack
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.CrimsonCoralCookieCriticalAttack" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.CrimsonCoralCookieCriticalAttack" start time: Nov 23 21:59 ??????
+"CookieTest.CrimsonCoralCookieCriticalAttack" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1413,7 +1373,7 @@ Note: Google Test filter = CookieTest.CrimsonCoralCookieCriticalAttack
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.CrimsonCoralCookieCriticalAttack" end time: Nov 23 21:59 ??????
+"CookieTest.CrimsonCoralCookieCriticalAttack" end time: Nov 23 22:08 ??????
 "CookieTest.CrimsonCoralCookieCriticalAttack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1421,7 +1381,7 @@ Test Passed.
 52/109 Test: CookieTest.CrimsonCoralCookieAttackAgainstFire
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.CrimsonCoralCookieAttackAgainstFire" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.CrimsonCoralCookieAttackAgainstFire" start time: Nov 23 21:59 ??????
+"CookieTest.CrimsonCoralCookieAttackAgainstFire" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1440,7 +1400,7 @@ Note: Google Test filter = CookieTest.CrimsonCoralCookieAttackAgainstFire
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.CrimsonCoralCookieAttackAgainstFire" end time: Nov 23 21:59 ??????
+"CookieTest.CrimsonCoralCookieAttackAgainstFire" end time: Nov 23 22:08 ??????
 "CookieTest.CrimsonCoralCookieAttackAgainstFire" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1448,7 +1408,7 @@ Test Passed.
 53/109 Test: CookieTest.CrimsonCoralCookieCriticalAttackAgainstFire
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.CrimsonCoralCookieCriticalAttackAgainstFire" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.CrimsonCoralCookieCriticalAttackAgainstFire" start time: Nov 23 21:59 ??????
+"CookieTest.CrimsonCoralCookieCriticalAttackAgainstFire" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1467,7 +1427,7 @@ Note: Google Test filter = CookieTest.CrimsonCoralCookieCriticalAttackAgainstFir
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.CrimsonCoralCookieCriticalAttackAgainstFire" end time: Nov 23 21:59 ??????
+"CookieTest.CrimsonCoralCookieCriticalAttackAgainstFire" end time: Nov 23 22:08 ??????
 "CookieTest.CrimsonCoralCookieCriticalAttackAgainstFire" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1475,7 +1435,7 @@ Test Passed.
 54/109 Test: CookieTest.CrimsonCoralCookieAttacked
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.CrimsonCoralCookieAttacked" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.CrimsonCoralCookieAttacked" start time: Nov 23 21:59 ??????
+"CookieTest.CrimsonCoralCookieAttacked" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1494,7 +1454,7 @@ Note: Google Test filter = CookieTest.CrimsonCoralCookieAttacked
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.CrimsonCoralCookieAttacked" end time: Nov 23 21:59 ??????
+"CookieTest.CrimsonCoralCookieAttacked" end time: Nov 23 22:08 ??????
 "CookieTest.CrimsonCoralCookieAttacked" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1502,7 +1462,7 @@ Test Passed.
 55/109 Test: CookieTest.SeaFairyCookieConstructor
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SeaFairyCookieConstructor" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SeaFairyCookieConstructor" start time: Nov 23 21:59 ??????
+"CookieTest.SeaFairyCookieConstructor" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1521,7 +1481,7 @@ Note: Google Test filter = CookieTest.SeaFairyCookieConstructor
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.SeaFairyCookieConstructor" end time: Nov 23 21:59 ??????
+"CookieTest.SeaFairyCookieConstructor" end time: Nov 23 22:08 ??????
 "CookieTest.SeaFairyCookieConstructor" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1529,7 +1489,7 @@ Test Passed.
 56/109 Test: CookieTest.SeaFairyCookieLevelUp
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SeaFairyCookieLevelUp" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SeaFairyCookieLevelUp" start time: Nov 23 21:59 ??????
+"CookieTest.SeaFairyCookieLevelUp" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1548,7 +1508,7 @@ Note: Google Test filter = CookieTest.SeaFairyCookieLevelUp
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.SeaFairyCookieLevelUp" end time: Nov 23 21:59 ??????
+"CookieTest.SeaFairyCookieLevelUp" end time: Nov 23 22:08 ??????
 "CookieTest.SeaFairyCookieLevelUp" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1556,7 +1516,7 @@ Test Passed.
 57/109 Test: CookieTest.SeaFairyCookieAttack
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SeaFairyCookieAttack" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SeaFairyCookieAttack" start time: Nov 23 21:59 ??????
+"CookieTest.SeaFairyCookieAttack" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1575,7 +1535,7 @@ Note: Google Test filter = CookieTest.SeaFairyCookieAttack
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.SeaFairyCookieAttack" end time: Nov 23 21:59 ??????
+"CookieTest.SeaFairyCookieAttack" end time: Nov 23 22:08 ??????
 "CookieTest.SeaFairyCookieAttack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1583,7 +1543,7 @@ Test Passed.
 58/109 Test: CookieTest.SeaFairyCookieCriticalAttack
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SeaFairyCookieCriticalAttack" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SeaFairyCookieCriticalAttack" start time: Nov 23 21:59 ??????
+"CookieTest.SeaFairyCookieCriticalAttack" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1602,7 +1562,7 @@ Note: Google Test filter = CookieTest.SeaFairyCookieCriticalAttack
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.SeaFairyCookieCriticalAttack" end time: Nov 23 21:59 ??????
+"CookieTest.SeaFairyCookieCriticalAttack" end time: Nov 23 22:08 ??????
 "CookieTest.SeaFairyCookieCriticalAttack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1610,7 +1570,7 @@ Test Passed.
 59/109 Test: CookieTest.SeaFairyCookieAttackAgainstFire
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SeaFairyCookieAttackAgainstFire" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SeaFairyCookieAttackAgainstFire" start time: Nov 23 21:59 ??????
+"CookieTest.SeaFairyCookieAttackAgainstFire" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1629,7 +1589,7 @@ Note: Google Test filter = CookieTest.SeaFairyCookieAttackAgainstFire
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.SeaFairyCookieAttackAgainstFire" end time: Nov 23 21:59 ??????
+"CookieTest.SeaFairyCookieAttackAgainstFire" end time: Nov 23 22:08 ??????
 "CookieTest.SeaFairyCookieAttackAgainstFire" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1637,7 +1597,7 @@ Test Passed.
 60/109 Test: CookieTest.SeaFairyCookieCriticalAttackAgainstFire
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SeaFairyCookieCriticalAttackAgainstFire" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SeaFairyCookieCriticalAttackAgainstFire" start time: Nov 23 21:59 ??????
+"CookieTest.SeaFairyCookieCriticalAttackAgainstFire" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1656,7 +1616,7 @@ Note: Google Test filter = CookieTest.SeaFairyCookieCriticalAttackAgainstFire
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.SeaFairyCookieCriticalAttackAgainstFire" end time: Nov 23 21:59 ??????
+"CookieTest.SeaFairyCookieCriticalAttackAgainstFire" end time: Nov 23 22:08 ??????
 "CookieTest.SeaFairyCookieCriticalAttackAgainstFire" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1664,7 +1624,7 @@ Test Passed.
 61/109 Test: CookieTest.SeaFairyCookieAttacked
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SeaFairyCookieAttacked" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SeaFairyCookieAttacked" start time: Nov 23 21:59 ??????
+"CookieTest.SeaFairyCookieAttacked" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1683,7 +1643,7 @@ Note: Google Test filter = CookieTest.SeaFairyCookieAttacked
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.SeaFairyCookieAttacked" end time: Nov 23 21:59 ??????
+"CookieTest.SeaFairyCookieAttacked" end time: Nov 23 22:08 ??????
 "CookieTest.SeaFairyCookieAttacked" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1691,7 +1651,7 @@ Test Passed.
 62/109 Test: CookieTest.SeltzerCookieConstructor
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SeltzerCookieConstructor" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SeltzerCookieConstructor" start time: Nov 23 21:59 ??????
+"CookieTest.SeltzerCookieConstructor" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1710,7 +1670,7 @@ Note: Google Test filter = CookieTest.SeltzerCookieConstructor
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.SeltzerCookieConstructor" end time: Nov 23 21:59 ??????
+"CookieTest.SeltzerCookieConstructor" end time: Nov 23 22:08 ??????
 "CookieTest.SeltzerCookieConstructor" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1718,7 +1678,7 @@ Test Passed.
 63/109 Test: CookieTest.SeltzerCookieLevelUp
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SeltzerCookieLevelUp" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SeltzerCookieLevelUp" start time: Nov 23 21:59 ??????
+"CookieTest.SeltzerCookieLevelUp" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1737,7 +1697,7 @@ Note: Google Test filter = CookieTest.SeltzerCookieLevelUp
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.SeltzerCookieLevelUp" end time: Nov 23 21:59 ??????
+"CookieTest.SeltzerCookieLevelUp" end time: Nov 23 22:08 ??????
 "CookieTest.SeltzerCookieLevelUp" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1745,7 +1705,7 @@ Test Passed.
 64/109 Test: CookieTest.SeltzerCookieAttack
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SeltzerCookieAttack" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SeltzerCookieAttack" start time: Nov 23 21:59 ??????
+"CookieTest.SeltzerCookieAttack" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1764,7 +1724,7 @@ Note: Google Test filter = CookieTest.SeltzerCookieAttack
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.SeltzerCookieAttack" end time: Nov 23 21:59 ??????
+"CookieTest.SeltzerCookieAttack" end time: Nov 23 22:08 ??????
 "CookieTest.SeltzerCookieAttack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1772,7 +1732,7 @@ Test Passed.
 65/109 Test: CookieTest.SeltzerCookieCriticalAttack
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SeltzerCookieCriticalAttack" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SeltzerCookieCriticalAttack" start time: Nov 23 21:59 ??????
+"CookieTest.SeltzerCookieCriticalAttack" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1781,25 +1741,17 @@ Note: Google Test filter = CookieTest.SeltzerCookieCriticalAttack
 [----------] Global test environment set-up.
 [----------] 1 test from CookieTest
 [ RUN      ] CookieTest.SeltzerCookieCriticalAttack
-C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\test\ut_water_cookie.cpp(51): error: The difference between cookie.attack(enemyType) and criticalDamage is 80, which exceeds 1, where
-cookie.attack(enemyType) evaluates to 100,
-criticalDamage evaluates to 180, and
-1 evaluates to 1.
-[  FAILED  ] CookieTest.SeltzerCookieCriticalAttack (0 ms)
+[       OK ] CookieTest.SeltzerCookieCriticalAttack (0 ms)
 [----------] 1 test from CookieTest (0 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (0 ms total)
-[  PASSED  ] 0 tests.
-[  FAILED  ] 1 test, listed below:
-[  FAILED  ] CookieTest.SeltzerCookieCriticalAttack
-
- 1 FAILED TEST
+[  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
-Test Failed.
-"CookieTest.SeltzerCookieCriticalAttack" end time: Nov 23 21:59 ??????
+Test Passed.
+"CookieTest.SeltzerCookieCriticalAttack" end time: Nov 23 22:08 ??????
 "CookieTest.SeltzerCookieCriticalAttack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1807,7 +1759,7 @@ Test Failed.
 66/109 Test: CookieTest.SeltzerCookieAttackAgainstFire
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SeltzerCookieAttackAgainstFire" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SeltzerCookieAttackAgainstFire" start time: Nov 23 21:59 ??????
+"CookieTest.SeltzerCookieAttackAgainstFire" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1823,10 +1775,10 @@ Note: Google Test filter = CookieTest.SeltzerCookieAttackAgainstFire
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.SeltzerCookieAttackAgainstFire" end time: Nov 23 21:59 ??????
+"CookieTest.SeltzerCookieAttackAgainstFire" end time: Nov 23 22:08 ??????
 "CookieTest.SeltzerCookieAttackAgainstFire" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1834,7 +1786,7 @@ Test Passed.
 67/109 Test: CookieTest.SeltzerCookieCriticalAttackAgainstFire
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SeltzerCookieCriticalAttackAgainstFire" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SeltzerCookieCriticalAttackAgainstFire" start time: Nov 23 21:59 ??????
+"CookieTest.SeltzerCookieCriticalAttackAgainstFire" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1843,25 +1795,17 @@ Note: Google Test filter = CookieTest.SeltzerCookieCriticalAttackAgainstFire
 [----------] Global test environment set-up.
 [----------] 1 test from CookieTest
 [ RUN      ] CookieTest.SeltzerCookieCriticalAttackAgainstFire
-C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\test\ut_water_cookie.cpp(51): error: The difference between cookie.attack(enemyType) and criticalDamage is 80, which exceeds 1, where
-cookie.attack(enemyType) evaluates to 150,
-criticalDamage evaluates to 230, and
-1 evaluates to 1.
-[  FAILED  ] CookieTest.SeltzerCookieCriticalAttackAgainstFire (0 ms)
+[       OK ] CookieTest.SeltzerCookieCriticalAttackAgainstFire (0 ms)
 [----------] 1 test from CookieTest (0 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (0 ms total)
-[  PASSED  ] 0 tests.
-[  FAILED  ] 1 test, listed below:
-[  FAILED  ] CookieTest.SeltzerCookieCriticalAttackAgainstFire
-
- 1 FAILED TEST
+[  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
-Test Failed.
-"CookieTest.SeltzerCookieCriticalAttackAgainstFire" end time: Nov 23 21:59 ??????
+Test Passed.
+"CookieTest.SeltzerCookieCriticalAttackAgainstFire" end time: Nov 23 22:08 ??????
 "CookieTest.SeltzerCookieCriticalAttackAgainstFire" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1869,7 +1813,7 @@ Test Failed.
 68/109 Test: CookieTest.SeltzerCookieAttacked
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=CookieTest.SeltzerCookieAttacked" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"CookieTest.SeltzerCookieAttacked" start time: Nov 23 21:59 ??????
+"CookieTest.SeltzerCookieAttacked" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1888,7 +1832,7 @@ Note: Google Test filter = CookieTest.SeltzerCookieAttacked
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"CookieTest.SeltzerCookieAttacked" end time: Nov 23 21:59 ??????
+"CookieTest.SeltzerCookieAttacked" end time: Nov 23 22:08 ??????
 "CookieTest.SeltzerCookieAttacked" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1896,7 +1840,7 @@ Test Passed.
 69/109 Test: GingerbreadGroupTest.Constructor
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.Constructor" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.Constructor" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.Constructor" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1915,7 +1859,7 @@ Note: Google Test filter = GingerbreadGroupTest.Constructor
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadGroupTest.Constructor" end time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.Constructor" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.Constructor" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1923,7 +1867,7 @@ Test Passed.
 70/109 Test: GingerbreadGroupTest.AttackWithNoCriticalCookie
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.AttackWithNoCriticalCookie" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.AttackWithNoCriticalCookie" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.AttackWithNoCriticalCookie" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1942,7 +1886,7 @@ Note: Google Test filter = GingerbreadGroupTest.AttackWithNoCriticalCookie
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadGroupTest.AttackWithNoCriticalCookie" end time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.AttackWithNoCriticalCookie" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.AttackWithNoCriticalCookie" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1950,7 +1894,7 @@ Test Passed.
 71/109 Test: GingerbreadGroupTest.AttackWithSomeCriticalCookie
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.AttackWithSomeCriticalCookie" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.AttackWithSomeCriticalCookie" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.AttackWithSomeCriticalCookie" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -1959,26 +1903,17 @@ Note: Google Test filter = GingerbreadGroupTest.AttackWithSomeCriticalCookie
 [----------] Global test environment set-up.
 [----------] 1 test from GingerbreadGroupTest
 [ RUN      ] GingerbreadGroupTest.AttackWithSomeCriticalCookie
-C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\test\ut_gingerbread_group.cpp(35): error: Expected equality of these values:
-  group.attack(enemyTypes)
-    Which is: { 100, 0, 0 }
-  (std::vector<int>{150, 0, 0})
-    Which is: { 150, 0, 0 }
-[  FAILED  ] GingerbreadGroupTest.AttackWithSomeCriticalCookie (0 ms)
+[       OK ] GingerbreadGroupTest.AttackWithSomeCriticalCookie (0 ms)
 [----------] 1 test from GingerbreadGroupTest (0 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (0 ms total)
-[  PASSED  ] 0 tests.
-[  FAILED  ] 1 test, listed below:
-[  FAILED  ] GingerbreadGroupTest.AttackWithSomeCriticalCookie
-
- 1 FAILED TEST
+[  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
-Test Failed.
-"GingerbreadGroupTest.AttackWithSomeCriticalCookie" end time: Nov 23 21:59 ??????
+Test Passed.
+"GingerbreadGroupTest.AttackWithSomeCriticalCookie" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.AttackWithSomeCriticalCookie" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1986,7 +1921,7 @@ Test Failed.
 72/109 Test: GingerbreadGroupTest.AttackedWithNoAvoidCookie
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.AttackedWithNoAvoidCookie" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.AttackedWithNoAvoidCookie" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.AttackedWithNoAvoidCookie" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2005,7 +1940,7 @@ Note: Google Test filter = GingerbreadGroupTest.AttackedWithNoAvoidCookie
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadGroupTest.AttackedWithNoAvoidCookie" end time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.AttackedWithNoAvoidCookie" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.AttackedWithNoAvoidCookie" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2013,7 +1948,7 @@ Test Passed.
 73/109 Test: GingerbreadGroupTest.AttackedWithSomeAvoidCookie
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.AttackedWithSomeAvoidCookie" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.AttackedWithSomeAvoidCookie" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.AttackedWithSomeAvoidCookie" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2032,7 +1967,7 @@ Note: Google Test filter = GingerbreadGroupTest.AttackedWithSomeAvoidCookie
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadGroupTest.AttackedWithSomeAvoidCookie" end time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.AttackedWithSomeAvoidCookie" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.AttackedWithSomeAvoidCookie" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2040,7 +1975,7 @@ Test Passed.
 74/109 Test: GingerbreadGroupTest.AddGingerbreadManRejectsDuplicateNames
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.AddGingerbreadManRejectsDuplicateNames" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.AddGingerbreadManRejectsDuplicateNames" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.AddGingerbreadManRejectsDuplicateNames" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2059,7 +1994,7 @@ Note: Google Test filter = GingerbreadGroupTest.AddGingerbreadManRejectsDuplicat
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadGroupTest.AddGingerbreadManRejectsDuplicateNames" end time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.AddGingerbreadManRejectsDuplicateNames" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.AddGingerbreadManRejectsDuplicateNames" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2067,7 +2002,7 @@ Test Passed.
 75/109 Test: GingerbreadGroupTest.AddGingerbreadManRejectsFullPositions
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.AddGingerbreadManRejectsFullPositions" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.AddGingerbreadManRejectsFullPositions" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.AddGingerbreadManRejectsFullPositions" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2086,7 +2021,7 @@ Note: Google Test filter = GingerbreadGroupTest.AddGingerbreadManRejectsFullPosi
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadGroupTest.AddGingerbreadManRejectsFullPositions" end time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.AddGingerbreadManRejectsFullPositions" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.AddGingerbreadManRejectsFullPositions" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2094,7 +2029,7 @@ Test Passed.
 76/109 Test: GingerbreadGroupTest.AddGingerbreadMan
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.AddGingerbreadMan" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.AddGingerbreadMan" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.AddGingerbreadMan" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2113,7 +2048,7 @@ Note: Google Test filter = GingerbreadGroupTest.AddGingerbreadMan
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadGroupTest.AddGingerbreadMan" end time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.AddGingerbreadMan" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.AddGingerbreadMan" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2121,7 +2056,7 @@ Test Passed.
 77/109 Test: GingerbreadGroupTest.ReplaceGingerbreadManRejectsDuplicateNames
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.ReplaceGingerbreadManRejectsDuplicateNames" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.ReplaceGingerbreadManRejectsDuplicateNames" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.ReplaceGingerbreadManRejectsDuplicateNames" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2140,7 +2075,7 @@ Note: Google Test filter = GingerbreadGroupTest.ReplaceGingerbreadManRejectsDupl
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadGroupTest.ReplaceGingerbreadManRejectsDuplicateNames" end time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.ReplaceGingerbreadManRejectsDuplicateNames" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.ReplaceGingerbreadManRejectsDuplicateNames" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2148,7 +2083,7 @@ Test Passed.
 78/109 Test: GingerbreadGroupTest.ReplaceGingerbreadManRejectsInvalidIndex
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.ReplaceGingerbreadManRejectsInvalidIndex" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.ReplaceGingerbreadManRejectsInvalidIndex" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.ReplaceGingerbreadManRejectsInvalidIndex" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2167,7 +2102,7 @@ Note: Google Test filter = GingerbreadGroupTest.ReplaceGingerbreadManRejectsInva
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadGroupTest.ReplaceGingerbreadManRejectsInvalidIndex" end time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.ReplaceGingerbreadManRejectsInvalidIndex" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.ReplaceGingerbreadManRejectsInvalidIndex" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2175,7 +2110,7 @@ Test Passed.
 79/109 Test: GingerbreadGroupTest.ReplaceGingerbreadManRejectsWrongPositionCookies
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.ReplaceGingerbreadManRejectsWrongPositionCookies" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.ReplaceGingerbreadManRejectsWrongPositionCookies" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.ReplaceGingerbreadManRejectsWrongPositionCookies" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2194,7 +2129,7 @@ Note: Google Test filter = GingerbreadGroupTest.ReplaceGingerbreadManRejectsWron
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadGroupTest.ReplaceGingerbreadManRejectsWrongPositionCookies" end time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.ReplaceGingerbreadManRejectsWrongPositionCookies" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.ReplaceGingerbreadManRejectsWrongPositionCookies" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2202,7 +2137,7 @@ Test Passed.
 80/109 Test: GingerbreadGroupTest.ReplaceGingerbreadMan
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.ReplaceGingerbreadMan" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.ReplaceGingerbreadMan" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.ReplaceGingerbreadMan" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2218,10 +2153,10 @@ Note: Google Test filter = GingerbreadGroupTest.ReplaceGingerbreadMan
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadGroupTest.ReplaceGingerbreadMan" end time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.ReplaceGingerbreadMan" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.ReplaceGingerbreadMan" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2229,7 +2164,7 @@ Test Passed.
 81/109 Test: GingerbreadGroupTest.SortByHealth
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.SortByHealth" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.SortByHealth" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.SortByHealth" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2245,10 +2180,10 @@ Note: Google Test filter = GingerbreadGroupTest.SortByHealth
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadGroupTest.SortByHealth" end time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.SortByHealth" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.SortByHealth" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2256,7 +2191,7 @@ Test Passed.
 82/109 Test: GingerbreadGroupTest.SortByDamage
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.SortByDamage" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.SortByDamage" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.SortByDamage" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2275,7 +2210,7 @@ Note: Google Test filter = GingerbreadGroupTest.SortByDamage
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadGroupTest.SortByDamage" end time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.SortByDamage" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.SortByDamage" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2283,7 +2218,7 @@ Test Passed.
 83/109 Test: GingerbreadGroupTest.SortByDefense
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.SortByDefense" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.SortByDefense" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.SortByDefense" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2302,7 +2237,7 @@ Note: Google Test filter = GingerbreadGroupTest.SortByDefense
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadGroupTest.SortByDefense" end time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.SortByDefense" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.SortByDefense" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2310,7 +2245,7 @@ Test Passed.
 84/109 Test: GingerbreadGroupTest.CountCombatPower
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.CountCombatPower" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.CountCombatPower" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.CountCombatPower" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2329,7 +2264,7 @@ Note: Google Test filter = GingerbreadGroupTest.CountCombatPower
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadGroupTest.CountCombatPower" end time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.CountCombatPower" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.CountCombatPower" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2337,7 +2272,7 @@ Test Passed.
 85/109 Test: GingerbreadGroupTest.RemoveDeadGingerbreadManKeepsLivingMembers
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.RemoveDeadGingerbreadManKeepsLivingMembers" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.RemoveDeadGingerbreadManKeepsLivingMembers" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.RemoveDeadGingerbreadManKeepsLivingMembers" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2356,7 +2291,7 @@ Note: Google Test filter = GingerbreadGroupTest.RemoveDeadGingerbreadManKeepsLiv
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadGroupTest.RemoveDeadGingerbreadManKeepsLivingMembers" end time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.RemoveDeadGingerbreadManKeepsLivingMembers" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.RemoveDeadGingerbreadManKeepsLivingMembers" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2364,7 +2299,7 @@ Test Passed.
 86/109 Test: GingerbreadGroupTest.RemoveGingerbreadManByName
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.RemoveGingerbreadManByName" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.RemoveGingerbreadManByName" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.RemoveGingerbreadManByName" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2383,7 +2318,7 @@ Note: Google Test filter = GingerbreadGroupTest.RemoveGingerbreadManByName
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadGroupTest.RemoveGingerbreadManByName" end time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.RemoveGingerbreadManByName" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.RemoveGingerbreadManByName" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2391,7 +2326,7 @@ Test Passed.
 87/109 Test: GingerbreadGroupTest.RemoveGingerbreadManByElement
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.RemoveGingerbreadManByElement" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.RemoveGingerbreadManByElement" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.RemoveGingerbreadManByElement" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2410,7 +2345,7 @@ Note: Google Test filter = GingerbreadGroupTest.RemoveGingerbreadManByElement
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadGroupTest.RemoveGingerbreadManByElement" end time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.RemoveGingerbreadManByElement" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.RemoveGingerbreadManByElement" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2418,7 +2353,7 @@ Test Passed.
 88/109 Test: GingerbreadGroupTest.GetGingerbreadManRejectInvalidIndex
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.GetGingerbreadManRejectInvalidIndex" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.GetGingerbreadManRejectInvalidIndex" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.GetGingerbreadManRejectInvalidIndex" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2437,7 +2372,7 @@ Note: Google Test filter = GingerbreadGroupTest.GetGingerbreadManRejectInvalidIn
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadGroupTest.GetGingerbreadManRejectInvalidIndex" end time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.GetGingerbreadManRejectInvalidIndex" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.GetGingerbreadManRejectInvalidIndex" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2445,7 +2380,7 @@ Test Passed.
 89/109 Test: GingerbreadGroupTest.GetGingerbreadMan
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadGroupTest.GetGingerbreadMan" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadGroupTest.GetGingerbreadMan" start time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.GetGingerbreadMan" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2464,7 +2399,7 @@ Note: Google Test filter = GingerbreadGroupTest.GetGingerbreadMan
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadGroupTest.GetGingerbreadMan" end time: Nov 23 21:59 ??????
+"GingerbreadGroupTest.GetGingerbreadMan" end time: Nov 23 22:08 ??????
 "GingerbreadGroupTest.GetGingerbreadMan" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2472,7 +2407,7 @@ Test Passed.
 90/109 Test: GingerbreadManTest.Constructor
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadManTest.Constructor" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadManTest.Constructor" start time: Nov 23 21:59 ??????
+"GingerbreadManTest.Constructor" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2491,7 +2426,7 @@ Note: Google Test filter = GingerbreadManTest.Constructor
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadManTest.Constructor" end time: Nov 23 21:59 ??????
+"GingerbreadManTest.Constructor" end time: Nov 23 22:08 ??????
 "GingerbreadManTest.Constructor" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2499,7 +2434,7 @@ Test Passed.
 91/109 Test: GingerbreadManTest.LevelUp
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadManTest.LevelUp" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadManTest.LevelUp" start time: Nov 23 21:59 ??????
+"GingerbreadManTest.LevelUp" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2518,7 +2453,7 @@ Note: Google Test filter = GingerbreadManTest.LevelUp
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadManTest.LevelUp" end time: Nov 23 21:59 ??????
+"GingerbreadManTest.LevelUp" end time: Nov 23 22:08 ??????
 "GingerbreadManTest.LevelUp" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2526,7 +2461,7 @@ Test Passed.
 92/109 Test: GingerbreadManTest.AttackWithoutTypeEffectiveness
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadManTest.AttackWithoutTypeEffectiveness" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadManTest.AttackWithoutTypeEffectiveness" start time: Nov 23 21:59 ??????
+"GingerbreadManTest.AttackWithoutTypeEffectiveness" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2545,7 +2480,7 @@ Note: Google Test filter = GingerbreadManTest.AttackWithoutTypeEffectiveness
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadManTest.AttackWithoutTypeEffectiveness" end time: Nov 23 21:59 ??????
+"GingerbreadManTest.AttackWithoutTypeEffectiveness" end time: Nov 23 22:08 ??????
 "GingerbreadManTest.AttackWithoutTypeEffectiveness" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2553,7 +2488,7 @@ Test Passed.
 93/109 Test: GingerbreadManTest.AttackWithTypeEffectiveness
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadManTest.AttackWithTypeEffectiveness" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadManTest.AttackWithTypeEffectiveness" start time: Nov 23 21:59 ??????
+"GingerbreadManTest.AttackWithTypeEffectiveness" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2572,7 +2507,7 @@ Note: Google Test filter = GingerbreadManTest.AttackWithTypeEffectiveness
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadManTest.AttackWithTypeEffectiveness" end time: Nov 23 21:59 ??????
+"GingerbreadManTest.AttackWithTypeEffectiveness" end time: Nov 23 22:08 ??????
 "GingerbreadManTest.AttackWithTypeEffectiveness" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2580,7 +2515,7 @@ Test Passed.
 94/109 Test: GingerbreadManTest.CriticalAttackWithoutTypeEffectiveness
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadManTest.CriticalAttackWithoutTypeEffectiveness" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadManTest.CriticalAttackWithoutTypeEffectiveness" start time: Nov 23 21:59 ??????
+"GingerbreadManTest.CriticalAttackWithoutTypeEffectiveness" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2589,25 +2524,17 @@ Note: Google Test filter = GingerbreadManTest.CriticalAttackWithoutTypeEffective
 [----------] Global test environment set-up.
 [----------] 1 test from GingerbreadManTest
 [ RUN      ] GingerbreadManTest.CriticalAttackWithoutTypeEffectiveness
-C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\test\ut_gingerbread_man.cpp(54): error: Expected equality of these values:
-  cookie.attack(Element::Fire)
-    Which is: 100
-  150
-[  FAILED  ] GingerbreadManTest.CriticalAttackWithoutTypeEffectiveness (0 ms)
+[       OK ] GingerbreadManTest.CriticalAttackWithoutTypeEffectiveness (0 ms)
 [----------] 1 test from GingerbreadManTest (0 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (0 ms total)
-[  PASSED  ] 0 tests.
-[  FAILED  ] 1 test, listed below:
-[  FAILED  ] GingerbreadManTest.CriticalAttackWithoutTypeEffectiveness
-
- 1 FAILED TEST
+[  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
-Test Failed.
-"GingerbreadManTest.CriticalAttackWithoutTypeEffectiveness" end time: Nov 23 21:59 ??????
+Test Passed.
+"GingerbreadManTest.CriticalAttackWithoutTypeEffectiveness" end time: Nov 23 22:08 ??????
 "GingerbreadManTest.CriticalAttackWithoutTypeEffectiveness" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2615,7 +2542,7 @@ Test Failed.
 95/109 Test: GingerbreadManTest.CriticalAttackWithTypeEffectiveness
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadManTest.CriticalAttackWithTypeEffectiveness" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadManTest.CriticalAttackWithTypeEffectiveness" start time: Nov 23 21:59 ??????
+"GingerbreadManTest.CriticalAttackWithTypeEffectiveness" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2624,25 +2551,17 @@ Note: Google Test filter = GingerbreadManTest.CriticalAttackWithTypeEffectivenes
 [----------] Global test environment set-up.
 [----------] 1 test from GingerbreadManTest
 [ RUN      ] GingerbreadManTest.CriticalAttackWithTypeEffectiveness
-C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\test\ut_gingerbread_man.cpp(60): error: Expected equality of these values:
-  cookie.attack(Element::Fire)
-    Which is: 150
-  200
-[  FAILED  ] GingerbreadManTest.CriticalAttackWithTypeEffectiveness (0 ms)
+[       OK ] GingerbreadManTest.CriticalAttackWithTypeEffectiveness (0 ms)
 [----------] 1 test from GingerbreadManTest (0 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (0 ms total)
-[  PASSED  ] 0 tests.
-[  FAILED  ] 1 test, listed below:
-[  FAILED  ] GingerbreadManTest.CriticalAttackWithTypeEffectiveness
-
- 1 FAILED TEST
+[  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
-Test Failed.
-"GingerbreadManTest.CriticalAttackWithTypeEffectiveness" end time: Nov 23 21:59 ??????
+Test Passed.
+"GingerbreadManTest.CriticalAttackWithTypeEffectiveness" end time: Nov 23 22:08 ??????
 "GingerbreadManTest.CriticalAttackWithTypeEffectiveness" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2650,7 +2569,7 @@ Test Failed.
 96/109 Test: GingerbreadManTest.Attacked
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadManTest.Attacked" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadManTest.Attacked" start time: Nov 23 21:59 ??????
+"GingerbreadManTest.Attacked" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2669,7 +2588,7 @@ Note: Google Test filter = GingerbreadManTest.Attacked
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadManTest.Attacked" end time: Nov 23 21:59 ??????
+"GingerbreadManTest.Attacked" end time: Nov 23 22:08 ??????
 "GingerbreadManTest.Attacked" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2677,7 +2596,7 @@ Test Passed.
 97/109 Test: GingerbreadManTest.AvoidAttack
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadManTest.AvoidAttack" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadManTest.AvoidAttack" start time: Nov 23 21:59 ??????
+"GingerbreadManTest.AvoidAttack" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2693,10 +2612,10 @@ Note: Google Test filter = GingerbreadManTest.AvoidAttack
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadManTest.AvoidAttack" end time: Nov 23 21:59 ??????
+"GingerbreadManTest.AvoidAttack" end time: Nov 23 22:08 ??????
 "GingerbreadManTest.AvoidAttack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2704,7 +2623,7 @@ Test Passed.
 98/109 Test: GingerbreadManTest.GetBaseFrontInteractPositions
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadManTest.GetBaseFrontInteractPositions" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadManTest.GetBaseFrontInteractPositions" start time: Nov 23 21:59 ??????
+"GingerbreadManTest.GetBaseFrontInteractPositions" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2720,10 +2639,10 @@ Note: Google Test filter = GingerbreadManTest.GetBaseFrontInteractPositions
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadManTest.GetBaseFrontInteractPositions" end time: Nov 23 21:59 ??????
+"GingerbreadManTest.GetBaseFrontInteractPositions" end time: Nov 23 22:08 ??????
 "GingerbreadManTest.GetBaseFrontInteractPositions" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2731,7 +2650,7 @@ Test Passed.
 99/109 Test: GingerbreadManTest.ElementalAttack
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadManTest.ElementalAttack" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadManTest.ElementalAttack" start time: Nov 23 21:59 ??????
+"GingerbreadManTest.ElementalAttack" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2750,7 +2669,7 @@ Note: Google Test filter = GingerbreadManTest.ElementalAttack
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadManTest.ElementalAttack" end time: Nov 23 21:59 ??????
+"GingerbreadManTest.ElementalAttack" end time: Nov 23 22:08 ??????
 "GingerbreadManTest.ElementalAttack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2758,7 +2677,7 @@ Test Passed.
 100/109 Test: GingerbreadManTest.GetFrontGingerbreadInteractPositions
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadManTest.GetFrontGingerbreadInteractPositions" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadManTest.GetFrontGingerbreadInteractPositions" start time: Nov 23 21:59 ??????
+"GingerbreadManTest.GetFrontGingerbreadInteractPositions" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2777,7 +2696,7 @@ Note: Google Test filter = GingerbreadManTest.GetFrontGingerbreadInteractPositio
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadManTest.GetFrontGingerbreadInteractPositions" end time: Nov 23 21:59 ??????
+"GingerbreadManTest.GetFrontGingerbreadInteractPositions" end time: Nov 23 22:08 ??????
 "GingerbreadManTest.GetFrontGingerbreadInteractPositions" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2785,7 +2704,7 @@ Test Passed.
 101/109 Test: GingerbreadManTest.GetMiddleGingerbreadInteractPositions
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadManTest.GetMiddleGingerbreadInteractPositions" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadManTest.GetMiddleGingerbreadInteractPositions" start time: Nov 23 21:59 ??????
+"GingerbreadManTest.GetMiddleGingerbreadInteractPositions" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2804,7 +2723,7 @@ Note: Google Test filter = GingerbreadManTest.GetMiddleGingerbreadInteractPositi
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadManTest.GetMiddleGingerbreadInteractPositions" end time: Nov 23 21:59 ??????
+"GingerbreadManTest.GetMiddleGingerbreadInteractPositions" end time: Nov 23 22:08 ??????
 "GingerbreadManTest.GetMiddleGingerbreadInteractPositions" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2812,7 +2731,7 @@ Test Passed.
 102/109 Test: GingerbreadManTest.GetBackGingerbreadInteractPositions
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadManTest.GetBackGingerbreadInteractPositions" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadManTest.GetBackGingerbreadInteractPositions" start time: Nov 23 21:59 ??????
+"GingerbreadManTest.GetBackGingerbreadInteractPositions" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2831,7 +2750,7 @@ Note: Google Test filter = GingerbreadManTest.GetBackGingerbreadInteractPosition
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadManTest.GetBackGingerbreadInteractPositions" end time: Nov 23 21:59 ??????
+"GingerbreadManTest.GetBackGingerbreadInteractPositions" end time: Nov 23 22:08 ??????
 "GingerbreadManTest.GetBackGingerbreadInteractPositions" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2839,7 +2758,7 @@ Test Passed.
 103/109 Test: GingerbreadManTest.FrontGingerbreadManConstructor
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadManTest.FrontGingerbreadManConstructor" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadManTest.FrontGingerbreadManConstructor" start time: Nov 23 21:59 ??????
+"GingerbreadManTest.FrontGingerbreadManConstructor" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2858,7 +2777,7 @@ Note: Google Test filter = GingerbreadManTest.FrontGingerbreadManConstructor
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadManTest.FrontGingerbreadManConstructor" end time: Nov 23 21:59 ??????
+"GingerbreadManTest.FrontGingerbreadManConstructor" end time: Nov 23 22:08 ??????
 "GingerbreadManTest.FrontGingerbreadManConstructor" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2866,7 +2785,7 @@ Test Passed.
 104/109 Test: GingerbreadManTest.FrontGingerbreadManDefenseBuffTriggersWhenDefenseIsHigher
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadManTest.FrontGingerbreadManDefenseBuffTriggersWhenDefenseIsHigher" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadManTest.FrontGingerbreadManDefenseBuffTriggersWhenDefenseIsHigher" start time: Nov 23 21:59 ??????
+"GingerbreadManTest.FrontGingerbreadManDefenseBuffTriggersWhenDefenseIsHigher" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2885,7 +2804,7 @@ Note: Google Test filter = GingerbreadManTest.FrontGingerbreadManDefenseBuffTrig
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadManTest.FrontGingerbreadManDefenseBuffTriggersWhenDefenseIsHigher" end time: Nov 23 21:59 ??????
+"GingerbreadManTest.FrontGingerbreadManDefenseBuffTriggersWhenDefenseIsHigher" end time: Nov 23 22:08 ??????
 "GingerbreadManTest.FrontGingerbreadManDefenseBuffTriggersWhenDefenseIsHigher" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2893,7 +2812,7 @@ Test Passed.
 105/109 Test: GingerbreadManTest.FrontGingerbreadManDefenseBuffDoesNotTriggerWhenDefenseIsNotHigher
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadManTest.FrontGingerbreadManDefenseBuffDoesNotTriggerWhenDefenseIsNotHigher" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadManTest.FrontGingerbreadManDefenseBuffDoesNotTriggerWhenDefenseIsNotHigher" start time: Nov 23 21:59 ??????
+"GingerbreadManTest.FrontGingerbreadManDefenseBuffDoesNotTriggerWhenDefenseIsNotHigher" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2912,7 +2831,7 @@ Note: Google Test filter = GingerbreadManTest.FrontGingerbreadManDefenseBuffDoes
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadManTest.FrontGingerbreadManDefenseBuffDoesNotTriggerWhenDefenseIsNotHigher" end time: Nov 23 21:59 ??????
+"GingerbreadManTest.FrontGingerbreadManDefenseBuffDoesNotTriggerWhenDefenseIsNotHigher" end time: Nov 23 22:08 ??????
 "GingerbreadManTest.FrontGingerbreadManDefenseBuffDoesNotTriggerWhenDefenseIsNotHigher" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2920,7 +2839,7 @@ Test Passed.
 106/109 Test: GingerbreadManTest.MiddleGingerbreadManCriticalBuffRaisesCriticalDamage
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadManTest.MiddleGingerbreadManCriticalBuffRaisesCriticalDamage" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadManTest.MiddleGingerbreadManCriticalBuffRaisesCriticalDamage" start time: Nov 23 21:59 ??????
+"GingerbreadManTest.MiddleGingerbreadManCriticalBuffRaisesCriticalDamage" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2929,29 +2848,17 @@ Note: Google Test filter = GingerbreadManTest.MiddleGingerbreadManCriticalBuffRa
 [----------] Global test environment set-up.
 [----------] 1 test from GingerbreadManTest
 [ RUN      ] GingerbreadManTest.MiddleGingerbreadManCriticalBuffRaisesCriticalDamage
-C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\test\ut_gingerbread_man.cpp(146): error: Expected equality of these values:
-  cookie.attack(Element::Fire)
-    Which is: 100
-  120
-C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\test\ut_gingerbread_man.cpp(148): error: Expected equality of these values:
-  cookie.attack(Element::Fire)
-    Which is: 100
-  150
-[  FAILED  ] GingerbreadManTest.MiddleGingerbreadManCriticalBuffRaisesCriticalDamage (0 ms)
+[       OK ] GingerbreadManTest.MiddleGingerbreadManCriticalBuffRaisesCriticalDamage (0 ms)
 [----------] 1 test from GingerbreadManTest (0 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (0 ms total)
-[  PASSED  ] 0 tests.
-[  FAILED  ] 1 test, listed below:
-[  FAILED  ] GingerbreadManTest.MiddleGingerbreadManCriticalBuffRaisesCriticalDamage
-
- 1 FAILED TEST
+[  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
-Test Failed.
-"GingerbreadManTest.MiddleGingerbreadManCriticalBuffRaisesCriticalDamage" end time: Nov 23 21:59 ??????
+Test Passed.
+"GingerbreadManTest.MiddleGingerbreadManCriticalBuffRaisesCriticalDamage" end time: Nov 23 22:08 ??????
 "GingerbreadManTest.MiddleGingerbreadManCriticalBuffRaisesCriticalDamage" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2959,7 +2866,7 @@ Test Failed.
 107/109 Test: GingerbreadManTest.MiddleGingerbreadManCriticalBuffPreservesHigherCriticalDamage
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadManTest.MiddleGingerbreadManCriticalBuffPreservesHigherCriticalDamage" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadManTest.MiddleGingerbreadManCriticalBuffPreservesHigherCriticalDamage" start time: Nov 23 21:59 ??????
+"GingerbreadManTest.MiddleGingerbreadManCriticalBuffPreservesHigherCriticalDamage" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -2968,25 +2875,17 @@ Note: Google Test filter = GingerbreadManTest.MiddleGingerbreadManCriticalBuffPr
 [----------] Global test environment set-up.
 [----------] 1 test from GingerbreadManTest
 [ RUN      ] GingerbreadManTest.MiddleGingerbreadManCriticalBuffPreservesHigherCriticalDamage
-C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\test\ut_gingerbread_man.cpp(154): error: Expected equality of these values:
-  cookie.attack(Element::Fire)
-    Which is: 100
-  180
-[  FAILED  ] GingerbreadManTest.MiddleGingerbreadManCriticalBuffPreservesHigherCriticalDamage (0 ms)
+[       OK ] GingerbreadManTest.MiddleGingerbreadManCriticalBuffPreservesHigherCriticalDamage (0 ms)
 [----------] 1 test from GingerbreadManTest (0 ms total)
 
 [----------] Global test environment tear-down
 [==========] 1 test from 1 test suite ran. (0 ms total)
-[  PASSED  ] 0 tests.
-[  FAILED  ] 1 test, listed below:
-[  FAILED  ] GingerbreadManTest.MiddleGingerbreadManCriticalBuffPreservesHigherCriticalDamage
-
- 1 FAILED TEST
+[  PASSED  ] 1 test.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
-Test Failed.
-"GingerbreadManTest.MiddleGingerbreadManCriticalBuffPreservesHigherCriticalDamage" end time: Nov 23 21:59 ??????
+Test Passed.
+"GingerbreadManTest.MiddleGingerbreadManCriticalBuffPreservesHigherCriticalDamage" end time: Nov 23 22:08 ??????
 "GingerbreadManTest.MiddleGingerbreadManCriticalBuffPreservesHigherCriticalDamage" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2994,7 +2893,7 @@ Test Failed.
 108/109 Test: GingerbreadManTest.BackGingerbreadManHealingBuffRestoresOneHealth
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadManTest.BackGingerbreadManHealingBuffRestoresOneHealth" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadManTest.BackGingerbreadManHealingBuffRestoresOneHealth" start time: Nov 23 21:59 ??????
+"GingerbreadManTest.BackGingerbreadManHealingBuffRestoresOneHealth" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -3013,7 +2912,7 @@ Note: Google Test filter = GingerbreadManTest.BackGingerbreadManHealingBuffResto
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadManTest.BackGingerbreadManHealingBuffRestoresOneHealth" end time: Nov 23 21:59 ??????
+"GingerbreadManTest.BackGingerbreadManHealingBuffRestoresOneHealth" end time: Nov 23 22:08 ??????
 "GingerbreadManTest.BackGingerbreadManHealingBuffRestoresOneHealth" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -3021,7 +2920,7 @@ Test Passed.
 109/109 Test: GingerbreadManTest.BackGingerbreadManHealingBuffDoesNotTriggerAtFullHealth
 Command: "C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local/Debug/ut_all.exe" "--gtest_filter=GingerbreadManTest.BackGingerbreadManHealingBuffDoesNotTriggerAtFullHealth" "--gtest_also_run_disabled_tests"
 Directory: C:/Users/cxiao/OneDrive/Desktop/c++/OOPMidterm-fixed/build-local
-"GingerbreadManTest.BackGingerbreadManHealingBuffDoesNotTriggerAtFullHealth" start time: Nov 23 21:59 ??????
+"GingerbreadManTest.BackGingerbreadManHealingBuffDoesNotTriggerAtFullHealth" start time: Nov 23 22:08 ??????
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\cxiao\OneDrive\Desktop\c++\OOPMidterm-fixed\build-local\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -3040,8 +2939,8 @@ Note: Google Test filter = GingerbreadManTest.BackGingerbreadManHealingBuffDoesN
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"GingerbreadManTest.BackGingerbreadManHealingBuffDoesNotTriggerAtFullHealth" end time: Nov 23 21:59 ??????
+"GingerbreadManTest.BackGingerbreadManHealingBuffDoesNotTriggerAtFullHealth" end time: Nov 23 22:08 ??????
 "GingerbreadManTest.BackGingerbreadManHealingBuffDoesNotTriggerAtFullHealth" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Nov 23 21:59 ??????
+End testing: Nov 23 22:08 ??????
