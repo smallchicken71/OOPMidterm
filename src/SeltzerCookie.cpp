@@ -7,6 +7,7 @@ SeltzerCookie::SeltzerCookie()
 
 bool SeltzerCookie::attacked(int incomingDamage) {
     const int realDamage = static_cast<int>(incomingDamage - defense * (1 + level / 100.0));
+    const bool unharmed = applyDamage(realDamage);
     keepHealingBuff();
-    return applyDamage(realDamage);
+    return unharmed;
 }

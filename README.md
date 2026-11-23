@@ -191,7 +191,7 @@
   - 初始屬性：位置為 Back，元素為 Water，`damage = 100`，`defense = 400`，`health = 700`，`critDamage = 0.8`，`critTime = 2`，`avoidTime = 3`。
   - 升級：`level` 加 `1`;`damage`、`defense`、`health` 各加 `100`;`currHealth` 回滿。
   - 攻擊：`(1 + crit + elementalAttack(enemyType)) * damage`。
-  - 受擊：`realDamage = incomingDamage - defense * (1 + level / 100.0)`，計算完後呼叫`keepHealingBuff()`。
+  - 受擊：`realDamage = incomingDamage - defense * (1 + level / 100.0)`，判定閃避並套用傷害後呼叫 `keepHealingBuff()`。
 
 ## 目標四、設計薑餅人隊伍類別
 `GingerbreadGroup` 管理隊伍成員，提供成員新增、替換、排序、移除及戰鬥操作。
