@@ -6,10 +6,8 @@
 class SilverbellCookie final : public BackGingerbreadMan {
 public:
     SilverbellCookie();
-
-    void levelUp() override;
-    bool attacked(int incomingDamage) override;
-
+    virtual void levelUp() override;
+    virtual bool onHit(int incomingDamage) override;
 };
 
 #endif

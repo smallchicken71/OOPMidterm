@@ -6,8 +6,7 @@
 class CrimsonCoralCookie final : public FrontGingerbreadMan {
 public:
     CrimsonCoralCookie();
-
-    int attack(Element enemyType) override;
+    virtual int attack(Element enemyType) override;
 };
 
 #endif

@@ -1,50 +1,25 @@
 #include "MillennialTreeCookie.hpp"
 
 MillennialTreeCookie::MillennialTreeCookie()
-    : FrontGingerbreadMan("Millennial Tree Cookie", Element::Plant,
-                          200, 100, 1000) {
+    :FrontGingerbreadMan("Millennial Tree Cookie",Element::Plant,200,150,1000){
 }
 
-void MillennialTreeCookie::levelUp() {
-    ++level;
-    damage += 150;
-    defense += 150;
-    health += 150;
-    currHealth = health;
+void MillennialTreeCookie::levelUp(){
+    damage+=150;
+    defense+=150;
+    health+=150;
 }
 
-int MillennialTreeCookie::attack(Element enemyType) {
-    float crit = 0;
-
-    if (countCritTime()) {
-        crit = critDamage;
+int MillennialTreeCookie::attack(Element enemyType){
+    float crit=0.0f;
+    if(isCriticalHit()){
+        crit=critDamage;
     }
-
-    // 先轉成 float，讓半血時算出 0.5。
-    float currentHealth = currHealth;
-    float healthRatio = currentHealth / health;
-    float bonus = elementalAttack(enemyType);
-
-    int finalDamage = (1 + crit + healthRatio + bonus) * damage;
-    return finalDamage;
+    return static_cast<int>(1 + crit + (1.0 * currHealth) / health + elementalAttack(enemyType)) * damage + 25;
 }
 
-bool MillennialTreeCookie::attacked(int incomingDamage) {
-    float currentHealth = currHealth;
-    float healthRatio = currentHealth / health;
-    int realDamage = incomingDamage - defense * (1 + healthRatio);
-
-    // 先用現在的防禦力計算本次傷害，再執行 buff。
+bool MillennialTreeCookie::onHit(int incomingDamage){
+    const int realDamage = static_cast<int>(incomingDamage - defense * (1 +((1.0 * currHealth) / health) ));
     defenseBuff();
-
-    if (countAvoidTime()) {
-        return true;
-    }
-
-    if (realDamage <= 0) {
-        return true;
-    }
-
-    currHealth -= realDamage;
-    return false;
+    return applydamage(realDamage);
 }

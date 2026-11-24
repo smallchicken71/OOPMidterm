@@ -6,10 +6,9 @@
 class MillennialTreeCookie final : public FrontGingerbreadMan {
 public:
     MillennialTreeCookie();
-
-    void levelUp() override;
-    int attack(Element enemyType) override;
-    bool attacked(int incomingDamage) override;
+    virtual void levelUp() override;
+    virtual int  attack(Element enemyType) override;
+    virtual bool onHit(int incomingDamage) override;
 };
 
 #endif

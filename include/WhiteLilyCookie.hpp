@@ -3,11 +3,11 @@
 
 #include "MiddleGingerbreadMan.hpp"
 
-class WhiteLilyCookie final : public MiddleGingerbreadMan {
+class WhiteLilyCookie final : public MiddleGingerbreadMan{
 public:
     WhiteLilyCookie();
-    int attack(Element enemyType) override;
-    bool attacked(int incomingDamage) override;
+    virtual int attack(Element enemyType) override;
+    virtual bool onHit(int incomingDamage) override;
 };
 
 #endif

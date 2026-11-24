@@ -1,28 +1,20 @@
 #include "BurningSpiceCookie.hpp"
 
 BurningSpiceCookie::BurningSpiceCookie()
-    : FrontGingerbreadMan("Burning Spice Cookie", Element::Fire,
-                          200, 100, 1000, 0.5, 3, 5) {
+    :FrontGingerbreadMan("Burning Spice Cookie",Element::Fire,200,80,1000){
 }
 
-void BurningSpiceCookie::levelUp() {
-    ++level;
-    damage += 200;
-    critDamage += 0.05;
-    health += 150;
-    currHealth = health;
+void BurningSpiceCookie::levelUp(){
+    damage+=250;
+    critDamage+=0.5f;
+    health+=220;
 }
 
-int BurningSpiceCookie::attack(Element enemyType) {
-    float crit = 0;
-
-    if (countCritTime()) {
-        crit = critDamage;
+int BurningSpiceCookie::attack(Element enemyType){
+    float crit=0.0f;
+    if(isCriticalHit()){
+        crit=critDamage;
     }
-
-    float bonus = elementalAttack(enemyType);
-    int finalDamage = (1 + crit + bonus) * damage + 50;
-
-    defenseBuff();
-    return finalDamage;
+    return static_cast<int>(1 + crit + elementalAttack(enemyType)) * (damage + 25);
 }
+

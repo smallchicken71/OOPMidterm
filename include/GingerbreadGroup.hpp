@@ -1,28 +1,25 @@
 #ifndef GINGERBREADGROUP_HPP
 #define GINGERBREADGROUP_HPP
 
-#include <cstddef>
+#include <algorithm>
+#include <memory>
 #include <string>
 #include <vector>
 #include "GingerbreadMan.hpp"
 
 class GingerbreadGroup {
 private:
-    std::vector<GingerbreadMan> queue;
+    std::vector<std::shared_ptr<GingerbreadMan>> queue;
     int maxSize;
-    std::size_t currIndex = 0;
-
-    void checkIndex(int index) const;
-    void resetIndexIfNeeded();
+    int currIndex;
 
 public:
     GingerbreadGroup(int maxSize);
+    std::vector<int> attack(std::vector<Element> &types);
+    void onHit(std::vector<int> &damages);
 
-    std::vector<int> attack(std::vector<Element>& types);
-    void attacked(std::vector<float>& damages);
-
-    void addGingerbreadMan(const GingerbreadMan& gingerbreadMan);
-    void replaceGingerbreadMan(int index, const GingerbreadMan& gingerbreadMan);
+    void addGingerbreadMan(std::shared_ptr<GingerbreadMan> gingerbreadMan);
+    void replaceGingerbreadMan(int index, std::shared_ptr<GingerbreadMan> gingerbreadMan);
 
     void sortByHealth();
     void sortByDamage();
@@ -32,7 +29,7 @@ public:
     void removeDeadGingerbreadMan();
     void removeGingerbreadMan(std::string name);
     void removeGingerbreadMan(Element element);
-    GingerbreadMan getGingerbreadMan(int index);
+    std::shared_ptr<GingerbreadMan> getGingerbreadMan(int index);
 };
 
 #endif

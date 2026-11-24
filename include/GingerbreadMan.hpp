@@ -23,13 +23,13 @@ public:
         int defense,
         int health,
         float critDamage,
-        int critTime,
-        int avoidTime
+        int maxCritCount,
+        int maxDodgeCount
     );
 
     virtual void levelUp() override;
     virtual int attack(Element enemyType);
-    virtual bool attacked(int incomingDamage) override;
+    virtual bool onHit(int incomingDamage) override;
     std::vector<Position> getInteractPositions() const;
     
     Element getElementType() const;
@@ -39,6 +39,7 @@ public:
 protected:
     float critDamage;
     float elementalAttack(Element enemyType);
+    bool applydamage(int realdamage);
 };
 
 #endif

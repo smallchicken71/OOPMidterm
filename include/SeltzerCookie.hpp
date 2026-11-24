@@ -6,8 +6,7 @@
 class SeltzerCookie final : public BackGingerbreadMan {
 public:
     SeltzerCookie();
-
-    bool attacked(int incomingDamage) override;
+    virtual bool onHit(int incomingDamage) override;
 };
 
 #endif

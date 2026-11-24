@@ -6,9 +6,8 @@
 class BurningSpiceCookie final : public FrontGingerbreadMan {
 public:
     BurningSpiceCookie();
-
-    void levelUp() override;
-    int attack(Element enemyType) override;
+    virtual void levelUp() override;
+    virtual int attack(Element enemyType) override;
 };
 
 #endif

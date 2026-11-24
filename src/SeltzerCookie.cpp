@@ -1,25 +1,13 @@
 #include "SeltzerCookie.hpp"
 
+
 SeltzerCookie::SeltzerCookie()
-    : BackGingerbreadMan("Seltzer Cookie", Element::Water,
-                         100, 400, 700, 0.8, 2, 3) {
+    :BackGingerbreadMan("Millennial Tree Cookie",Element::Water,200,450,700,0.7f,2,3){
 }
 
-bool SeltzerCookie::attacked(int incomingDamage) {
-    double defenseMultiplier = 1 + level / 100.0;
-    int realDamage = incomingDamage - defense * defenseMultiplier;
 
-    // 算完傷害後先回血，再判斷閃避和扣血。
+bool SeltzerCookie::onHit(int incomingDamage){
+    const int realDamage = static_cast<int>(incomingDamage - defense * (1 + level / 100.0));
     keepHealingBuff();
-
-    if (countAvoidTime()) {
-        return true;
-    }
-
-    if (realDamage <= 0) {
-        return true;
-    }
-
-    currHealth -= realDamage;
-    return false;
+    return applydamage(realDamage);
 }

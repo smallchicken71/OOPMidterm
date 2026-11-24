@@ -1,42 +1,24 @@
 #include "ChiliPepperCookie.hpp"
 
-ChiliPepperCookie::ChiliPepperCookie()
-    :MiddleGingerbreadMan("Chili Pepper Cookie",Element::Fire,200,100,700,0.8,7,3){
 
+ChiliPepperCookie::ChiliPepperCookie()
+    :MiddleGingerbreadMan("Chili Pepper Cookie",Element::Fire,200,100,900){
 }
 
-
 void ChiliPepperCookie::levelUp(){
-    level+=1;
-    damage+=100;
+    damage+=200;
     defense+=100;
     health+=100;
     currHealth=health;
+
     criticalBuff();
 }
 
 int ChiliPepperCookie::attack(Element enemyType){
-      float crit = 0;
-
-    if (countCritTime()) {
-        crit = critDamage;
+    float crit=0.0f;
+    if(isCriticalHit()){
+        crit=critDamage;
     }
-    float healthraratio=(1.0*currHealth)/ health;
-    float bonus = elementalAttack(enemyType);
-    int finalDamage = (1 + crit + healthraratio + bonus) * damage;
-    return finalDamage;
+    return static_cast<int>(1 + crit + (1.0 * currHealth / health) + elementalAttack(enemyType)) * damage;
 }
 
-bool ChiliPepperCookie::attacked(int incomingDamage){
-    int realDamage = incomingDamage - defense;
-    if (countAvoidTime()) {
-        return true;
-    }
-
-    if (realDamage <= 0) {
-        return true;
-    }
-
-    currHealth -= realDamage;
-    return false;
-}

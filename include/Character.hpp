@@ -11,27 +11,28 @@ protected:
     int defense;
     int health;
     int currHealth;
-    int critTime;
-    int avoidTime;
-    int currCritTime;
-    int currAvoidTime;
+    int maxCritCount;
+    int maxDodgeCount;
+    int critCount;
+    int dodgeCount;
 
 public:
-    Character(std::string name, int damage, int defense, int health, int critTime, int avoidTime);
+    Character(std::string name, int damage, int defense, int health, int maxCritCount, int maxDodgeCount);
+    virtual ~Character() = default;
     virtual void levelUp() = 0;
-    virtual bool attacked(int incomingDamage) = 0;
+    virtual bool onHit(int incomingDamage) = 0;
 
-    bool countCritTime();
-    bool countAvoidTime();
+    bool isCriticalHit();
+    bool isDodged();
 
     std::string getName() const;
-    int getlevel() const;
+    int getLevel() const;
     int getDamage() const;
     int getDefense() const;
     int getHealth() const;
     int getCurrHealth() const;
-    int getCritTime() const;
-    int getAvoidTime() const;
+    int getMaxCritCount() const;
+    int getMaxDodgeCount() const;
 };
 
 #endif

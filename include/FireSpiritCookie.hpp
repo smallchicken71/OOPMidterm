@@ -6,9 +6,7 @@
 class FireSpiritCookie final : public BackGingerbreadMan {
 public:
     FireSpiritCookie();
-
-    void levelUp() override;
-
+    virtual void levelUp() override;
 };
 
 #endif

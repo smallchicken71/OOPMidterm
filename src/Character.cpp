@@ -1,26 +1,22 @@
 #include "Character.hpp"
-using namespace std;
-
-Character::Character(string name, int damage, int defense, int health, int critTime, int avoidTime)
-    :name(name),
-     damage(damage),
-     defense(defense),
-     health(health),
-     currHealth(health),
-     level(1),
-     critTime(critTime),
-     avoidTime(avoidTime),
-     currCritTime(0),
-     currAvoidTime(0){
-     }
-
-
-     
-string Character::getName()const{
-        return name;
+Character::Character(std::string name, int damage, int defense, int health, int maxCritCount, int maxDodgeCount)
+    :name(std::move(name)),
+    level(1),
+    damage(damage),
+    defense(defense),
+    health(health),
+    currHealth(health),
+    maxCritCount(maxCritCount),
+    maxDodgeCount(maxDodgeCount),
+    critCount(0),
+    dodgeCount(0){
 }
 
-int Character::getlevel() const{
+std::string Character::getName()const{
+    return name;
+}
+
+int Character::getLevel() const{
     return level;
 }
 
@@ -40,32 +36,28 @@ int Character::getCurrHealth() const{
     return currHealth;
 }
 
-int Character::getCritTime() const{
-    return critTime;
+int Character::getMaxCritCount()const{
+    return maxCritCount;
 }
 
-int Character::getAvoidTime() const{
-    return avoidTime;
+int Character::getMaxDodgeCount()const{
+    return maxDodgeCount;
 }
 
-bool Character::countCritTime(){
-    this->currCritTime+=1;
-    if (this->currCritTime == this->critTime)
-    {
-        this->currCritTime = 0;
+bool Character::isCriticalHit(){
+    critCount+=1;
+    if(critCount == maxCritCount){
+        critCount=0;
         return true;
     }
     return false;
 }
 
-bool Character::countAvoidTime(){
-    this->currAvoidTime+=1;
-    if(this->currAvoidTime==this->currAvoidTime)
-    {
-        this->currAvoidTime=0;
+bool Character::isDodged(){
+    dodgeCount+=1;
+    if(dodgeCount == maxDodgeCount){
+        dodgeCount=0;
         return true;
     }
     return false;
-
 }
-
