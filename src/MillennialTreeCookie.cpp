@@ -14,7 +14,10 @@ void MillennialTreeCookie::levelUp() {
 }
 
 int MillennialTreeCookie::attack(Element enemyType) {
-    const float crit = countCritTime() ? critDamage : 0.0f;
+    float crit=0.0f;
+    if(countCritTime()){
+        crit=critDamage;
+    }
     const int healthRatio = currHealth / health;
     return static_cast<int>((1 + crit + healthRatio + elementalAttack(enemyType)) * damage);
 }
